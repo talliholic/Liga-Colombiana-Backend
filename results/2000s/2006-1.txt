@@ -1,0 +1,242 @@
+Fecha 1 - 5 de febrero de 2006
+Equipo Local	Resultado	Equipo Visitante
+América	0 - 3	Deportivo Cali
+Atlético Huila	1 - 1	Millonarios
+Deportivo Pasto	1 - 1	Pereira
+Deportes Quindío	1 - 0	Real Cartagena
+Independiente Medellín	2 - 0	Atlético Bucaramanga
+Cúcuta Deportivo	3 - 2	Atlético Nacional
+Junior	3 - 2	Envigado F. C.
+Once Caldas	2 - 2	Boyacá Chicó
+Santa Fe	0 - 2	Deportes Tolima
+Fecha 2 - 12 de febrero de 2006
+Equipo Local	Resultado	Equipo Visitante
+Millonarios	1 - 0	Deportivo Pasto
+Deportes Tolima	2 - 0	Atlético Huila
+Boyacá Chicó	2 - 0	Santa Fe
+Envigado F. C.	1 - 1	Once Caldas
+Atlético Nacional	2 - 2	Junior
+Deportivo Cali	0 - 2	Cúcuta Deportivo
+Atlético Bucaramanga	1 - 0	América
+Real Cartagena	2 - 2	Independiente Medellín
+Pereira	1 - 0	Deportes Quindío
+Fecha 3 - 19 de febrero de 2006
+Equipo Local	Resultado	Equipo Visitante
+Once Caldas	1 - 0	Atlético Nacional
+Deportivo Pasto	4 - 1	Atlético Huila
+Deportes Quindío	1 - 1	Millonarios
+Independiente Medellín	1 - 0	Pereira
+América	2 - 1	Real Cartagena
+Cúcuta Deportivo	1 - 1	Atlético Bucaramanga
+Junior	0 - 0	Deportivo Cali
+Santa Fe	3 - 3	Envigado F. C.
+Deportes Tolima	3 - 1	Boyacá Chicó
+Fecha 4 - 26 de febrero de 2006
+Equipo Local	Resultado	Equipo Visitante
+Atlético Nacional	2 - 1	Santa Fe
+Atlético Huila	3 - 1	Boyacá Chicó
+Real Cartagena	0 - 1	Cúcuta Deportivo
+Millonarios	3 - 0	Independiente Medellín
+Pereira	2 - 2	América
+Atlético Bucaramanga	2 - 0	Junior
+Deportivo Cali	1 - 2	Once Caldas
+Deportivo Pasto	2 - 3	Deportes Quindío
+Envigado F. C.	3 - 7	Deportes Tolima
+Fecha 5 - 5 de marzo de 2006
+Equipo Local	Resultado	Equipo Visitante
+América	1 - 0	Millonarios
+Deportes Quindío	2 - 0	Atlético Huila
+Independiente Medellín	2 - 2	Deportivo Pasto
+Cúcuta Deportivo	0 - 1	Pereira
+Junior	2 - 0	Real Cartagena
+Once Caldas	1 - 0	Atlético Bucaramanga
+Santa Fe	2 - 1	Deportivo Cali
+Deportes Tolima	5 - 1	Atlético Nacional
+Boyacá Chicó	0 - 0	Envigado F. C
+Fecha 6 - 8 de marzo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Atlético Bucaramanga	2 - 1	Santa Fe
+Atlético Huila	1 - 0	Envigado F. C.
+Atlético Nacional	1 - 0	Boyacá Chicó
+Deportivo Cali	2 - 1	Deportes Tolima
+Real Cartagena	1 - 2	Once Caldas
+Pereira	1 - 0	Junior
+Millonarios	1 - 0	Cúcuta Deportivo
+Deportivo Pasto	2 - 1	América
+Deportes Quindío	2 - 0	Independiente Medellín
+Fecha 7 - 15 de marzo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Envigado F. C.	1 - 0	Atlético Nacional
+Independiente Medellín	0 - 1	Atlético Huila
+América	0 - 1	Deportes Quindío
+Cúcuta Deportivo	3 - 1	Deportivo Pasto
+Junior	4 - 4	Millonarios
+Once Caldas	2 - 1	Pereira
+Santa Fe	2 - 1	Real Cartagena
+Deportes Tolima	0 - 0	Atlético Bucaramanga
+Boyacá Chicó	1 - 1	Deportivo Cali
+Fecha 8 - 19 de marzo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Independiente Medellín	2 - 3	América
+Atlético Huila	1 - 0	Atlético Nacional
+Deportivo Cali	0 - 1	Envigado F. C.
+Atlético Bucaramanga	1 - 0	Boyacá Chicó
+Real Cartagena	1 - 2	Deportes Tolima
+Pereira	1 - 1	Santa Fe
+Millonarios	1 - 1	Once Caldas
+Deportivo Pasto	2 - 0	Junior
+Deportes Quindío	0 - 1	Cúcuta Deportivo
+Fecha 9 - 26 de marzo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Millonarios	3 - 3	Santa Fe
+Deportivo Cali	1 - 1	América
+Atlético Nacional	2 - 1	Independiente Medellín
+Real Cartagena	1 - 2	Junior
+Atlético Huila	1 - 4	Deportes Tolima
+Pereira	0 - 0	Once Caldas
+Atlético Bucaramanga	2 - 1	Cúcuta Deportivo
+Envigado F. C.	2 - 0	Deportes Quindío
+Boyacá Chicó	0 - 0	Deportivo Pasto
+Fecha 10 - 2 de abril de 2006
+Equipo Local	Resultado	Equipo Visitante
+Atlético Nacional	2 - 0	Deportivo Cali
+Cúcuta Deportivo	1 - 0	Independiente Medellín
+Santa Fe	1 - 3	Millonarios
+Deportes Tolima	0 - 0	Pereira
+Junior	0 - 1	Deportes Quindío
+Envigado F. C.	0 - 0	Atlético Bucaramanga
+Once Caldas	4 - 2	Deportivo Pasto
+América	2 - 1	Atlético Huila
+Boyacá Chicó	4 - 2	Real Cartagena
+Fecha 11 - 9 de abril de 2006
+Equipo Local	Resultado	Equipo Visitante
+Millonarios	0 - 3	Deportes Tolima
+Atlético Huila	3 - 1	Deportivo Cali
+Atlético Bucaramanga	0 - 2	Atlético Nacional
+Real Cartagena	0 - 1	Envigado
+Pereira	1 - 1	Boyacá Chicó
+Deportivo Pasto	4 - 1	Santa Fe
+Deportes Quindío	1 - 3	Once Caldas
+Independiente Medellín	3 - 1	Junior
+América	0 - 1	Cúcuta Deportivo
+Fecha 12 - 16 de abril de 2006
+Equipo Local	Resultado	Equipo Visitante
+Once Caldas	6 - 0	Independiente Medellín
+Cúcuta Deportivo	4 - 0	Atlético Huila
+Junior	1 - 2	América
+Santa Fe	0 - 0	Deportes Quindío
+Deportes Tolima	1 - 1	Deportivo Pasto
+Envigado F. C.	2 - 0	Pereira
+Atlético Nacional	1 - 0	Real Cartagena
+Deportivo Cali	4 - 1	Atlético Bucaramanga
+Boyacá Chicó	0 - 2	Millonarios
+Fecha 13 - 23 de abril de 2006
+Equipo Local	Resultado	Equipo Visitante
+Pereira	2 - 1	Atlético Nacional
+Atlético Huila	2 - 1	Atlético Bucaramanga
+Real Cartagena	0 - 1	Deportivo Cali
+Millonarios	1 - 1	Envigado F. C.
+Deportes Quindío	2 - 1	Deportes Tolima
+Deportivo Pasto	1 - 1	Boyacá Chicó
+Independiente Medellín	0 - 1	Santa Fe
+América	0 - 0	Once Caldas
+Cúcuta Deportivo	2 - 0	Junior
+Fecha 14 - 30 de abril de 2006
+Equipo Local	Resultado	Equipo Visitante
+Once Caldas	2 - 2	Cúcuta Deportivo
+Junior	3 - 0	Atlético Huila
+Santa Fe	1 - 3	América
+Deportes Tolima	0 - 0	Independiente Medellín
+Boyacá Chicó	1 - 2	Deportes Quindío
+Envigado F. C.	0 - 1	Deportivo Pasto
+Atlético Nacional	2 - 0	Millonarios
+Deportivo Cali	1 - 1	Pereira
+Atlético Bucaramanga	0 - 1	Real Cartagena
+Fecha 15 - 7 de mayo de 2006
+Equipo Local	Resultado	Equipo Visitante
+América	1 - 0	Deportes Tolima
+Atlético Huila	1 - 3	Real Cartagena
+Pereira	3 - 2	Atlético Bucaramanga
+Deportivo Pasto	0 - 0	Atlético Nacional
+Deportes Quindío	1 - 1	Envigado F. C.
+Independiente Medellín	1 - 2	Boyacá Chicó
+Cúcuta Deportivo	2 - 0	Santa Fe
+Junior	0 - 0	Once Caldas
+Millonarios	0 - 1	Deportivo Cali
+Fecha 16 - 13 de mayo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Envigado F. C.	0 - 0	Independiente Medellín
+Once Caldas	1 - 0	Atlético Huila
+Santa Fe	4 - 2	Junior
+Deportes Tolima	2 - 2	Cúcuta Deportivo
+Boyacá Chicó	1 - 0	América
+Atlético Nacional	2 - 1	Deportes Quindío
+Deportivo Cali	1 - 0	Deportivo Pasto
+Atlético Bucaramanga	2 - 3	Millonarios
+Real Cartagena	0 - 1	Pereira
+Fecha 17 - 17 de mayo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Atlético Huila	0 - 3	Pereira
+Millonarios	2 - 1	Real Cartagena
+Deportivo Pasto	2 - 1	Atlético Bucaramanga
+Deportes Quindío	0 - 1	Deportivo Cali
+Independiente Medellín	1 - 1	Atlético Nacional
+América	2 - 1	Envigado F. C.
+Cúcuta Deportivo	1 - 1	Boyacá Chicó
+Junior	1 - 2	Deportes Tolima
+Once Caldas	0 - 2	Santa Fe
+Fecha 18 - 21 de mayo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Santa Fe	1 - 1	Atlético Huila
+Boyacá Chicó	1 - 1	Junior
+Envigado F. C.	1 - 2	Cúcuta Deportivo
+Atlético Nacional	6 - 0	América
+Atlético Bucaramanga	1 - 0	Deportes Quindío
+Deportivo Cali	1 - 0	Independiente Medellín
+Real Cartagena	0 - 3	Deportivo Pasto
+Pereira	1 - 1	Millonarios
+Deportes Tolima	1 - 3	Once Caldas
+Fecha 1 - 31 de mayo de 2006
+Equipo Local	Resultado	Equipo Visitante
+Once Caldas	1 - 1	Tolima
+Deportivo Cali	4 - 1	Pereira
+Pasto	2 - 1	Atlético Nacional
+Millonarios	1 - 1	Cúcuta
+Fecha 2 - 4 de junio de 2006
+Equipo Local	Resultado	Equipo Visitante
+Tolima	0 - 0	Deportivo Cali
+Pereira	1 - 2	Once Caldas
+Atlético Nacional	2 - 0	Millonarios
+Cúcuta	0 - 1	Pasto
+Fecha 3 - 7 de junio de 2006
+Equipo Local	Resultado	Equipo Visitante
+Tolima	2 - 1	Pereira
+Once Caldas	0 - 1	Deportivo Cali
+Atlético Nacional	2 - 3	Cúcuta
+Pasto	1 - 1	Millonarios
+Fecha 4 - 11 de junio de 2006
+Equipo Local	Resultado	Equipo Visitante
+Pereira	4 - 0	Tolima
+Deportivo Cali	2 - 1	Once Caldas
+Cúcuta	2 - 1	Atlético Nacional
+Millonarios	2 - 0	Pasto
+Fecha 5 - 14 de junio de 2006
+Equipo Local	Resultado	Equipo Visitante
+Deportivo Cali	2 - 2	Tolima
+Once Caldas	3 - 1	Pereira
+Millonarios	0 - 2	Atlético Nacional
+Pasto	2 - 0	Cúcuta
+Fecha 6 - 18 de junio de 2006
+Equipo Local	Resultado	Equipo Visitante
+Tolima	4 - 0	Once Caldas
+Deportivo Pereira	2 - 2	Deportivo Cali
+Atlético Nacional	1 - 3	Pasto
+Cúcuta	2 - 1	Millonarios
+Fecha	
+Cali	0 - 1	Deportivo Pasto
+Fecha
+Deportivo Pasto	1 - 1	Deportivo Cali
+
+
+
+

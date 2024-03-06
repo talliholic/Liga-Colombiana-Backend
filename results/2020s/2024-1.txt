@@ -1,0 +1,110 @@
+Fecha 1
+Patriotas	0 : 1	Jaguares	La Independencia	19 de enero	18:00	Win Sports+ y Win Sports
+Deportivo Pereira	2 : 2	Deportivo Cali	Hernán Ramírez Villegas	20:15	Win Sports+
+Once Caldas	2 : 1	Boyacá Chicó	Palogrande	20 de enero	16:00	Win Sports+ y Win Sports
+Deportes Tolima	1 : 2	Fortaleza CEIF	Manuel Murillo Toro	18:10
+América	0 : 1	Águilas Doradas	Olímpico Pascual Guerrero	20:20	Win Sports+
+Millonarios	5 : 0	Independiente Medellín	Nemesio Camacho El Campín	21 de enero	16:00
+Junior	2 : 0	Atlético Bucaramanga	Metropolitano Roberto Meléndez	18:10
+Atlético Nacional	3 : 1	Alianza F. C.	Atanasio Girardot	20:20
+La Equidad	0 : 0	Envigado F. C.	Metropolitano de Techo	22 de enero	18:10	Win Sports+ y Win Sports
+Deportivo Pasto	0 : 1	Santa Fe	Departamental Libertad	20:20
+Fecha 2
+Fortaleza CEIF	2 : 0	Patriotas	Metropolitano de Techo	25 de enero	18:10	Win Sports+ y Win Sports
+Águilas Doradas	1 : 0	Once Caldas	Alberto Grisales	20:20
+Deportivo Pasto	1 : 4	Deportes Tolima	Departamental Libertad	26 de enero	18:10
+Alianza F. C.	3 : 3	Deportivo Cali	Armando Maestre Pavajeau	20:20	Win Sports+
+Santa Fe	3 : 1	Envigado F. C.	Nemesio Camacho El Campín	27 de enero	16:00	Win Sports+ y Win Sports
+Jaguares	0 : 0	La Equidad	Jaraguay	18:10
+Independiente Medellín	1 : 0	Deportivo Pereira	Atanasio Girardot	20:20	Win Sports+
+Boyacá Chicó	2 : 2	Junior	La Independencia	28 de enero	16:00
+América	4 : 1	Atlético Nacional	Olímpico Pascual Guerrero	18:10
+Atlético Bucaramanga	0 : 0	Millonarios	Alfonso López	20:20
+Fecha 3
+Patriotas	0 : 0	Águilas Doradas	La Independencia	30 de enero	16:00	Win Sports+ y Win Sports
+Deportivo Cali	2 : 0	Fortaleza CEIF	Deportivo Cali	18:15
+La Equidad	1 : 0	Santa Fe	Metropolitano de Techo	20:30	Win Sports+
+Deportivo Pereira	0 : 1	Deportivo Pasto	Hernán Ramírez Villegas	31 de enero	16:00	Win Sports+ y Win Sports
+Millonarios	1 : 1	Alianza F. C.	Nemesio Camacho El Campín	18:10	Win Sports+
+Deportes Tolima	2 : 1	América	Manuel Murillo Toro	20:20
+Envigado F. C.	2 : 0	Boyacá Chicó	Polideportivo Sur	1 de febrero	16:00	Win Sports+ y Win Sports
+Atlético Nacional	1 : 1	Once Caldas	Atanasio Girardot	18:10	Win Sports+
+Junior	3 : 0	Independiente Medellín	Metropolitano Roberto Meléndez	20:20
+Jaguares	0 : 1	Atlético Bucaramanga	Jaraguay	2 de febrero	18:10	Win Sports+ y Win Sports
+Fecha 4
+Deportes Tolima	2 : 0	Millonarios	Manuel Murillo Toro	3 de febrero	18:00	Win Sports+
+América	1 : 0	Patriotas	Olímpico Pascual Guerrero	20:10
+Fortaleza CEIF	1 : 1	Envigado F. C.	Metropolitano de Techo	4 de febrero	16:00	Win Sports+ y Win Sports
+Águilas Doradas	0 : 3	Atlético Nacional	Alberto Grisales	18:10	Win Sports+
+Alianza F. C.	0 : 1	Junior	Armando Maestre Pavajeau	20:20
+Boyacá Chicó	1 : 2	Deportivo Pereira	La Independencia	5 de febrero	16:00	Win Sports+ y Win Sports
+Deportivo Pasto	1 : 1	Jaguares	Departamental Libertad	18:10
+Independiente Medellín	1 : 0	Deportivo Cali	Atanasio Girardot	20:20	Win Sports+
+Once Caldas	0 : 0	La Equidad	Palogrande	6 de febrero	18:10	Win Sports+ y Win Sports
+Santa Fe	0 : 1	Atlético Bucaramanga	Nemesio Camacho El Campín
+Fecha 5
+Envigado F. C.	1 : 2	Alianza F. C.	Polideportivo Sur	7 de febrero	16:00	Win Sports+ y Win Sports
+Millonarios	1 : 0	América	Nemesio Camacho El Campín	20:00	Win Sports+
+Deportivo Pereira	2 : 0	Fortaleza CEIF	Hernán Ramírez Villegas	8 de febrero	16:00	Win Sports+ y Win Sports
+Junior	2 : 0	Deportivo Pasto	Metropolitano Roberto Meléndez	18:10	Win Sports+
+Patriotas	0 : 0	Atlético Nacional	La Independencia	20:20
+Jaguares	1 : 0	Águilas Doradas	Jaraguay	9 de febrero	18:10	Win Sports+ y Win Sports
+Deportivo Cali	4 : 0	Boyacá Chicó	Deportivo Cali	20:20	Win Sports+
+La Equidad	1 : 1	Deportes Tolima	Metropolitano de Techo	10 de febrero	16:00	Win Sports+ y Win Sports
+Atlético Bucaramanga	1 : 1	Once Caldas	Alfonso López	18:10
+Independiente Medellín	1 : 1	Santa Fe	Atanasio Girardot	20:20	Win Sports+
+Fecha 6
+Fortaleza CEIF	2 : 0	Junior	Metropolitano de Techo	11 de febrero	16:00	Win Sports+
+Atlético Nacional	0 : 1	Millonarios	Atanasio Girardot	18:10
+Alianza F. C.	1 : 2	Deportivo Pereira	Armando Maestre Pavajeau	20:20	Win Sports+ y Win Sports
+Deportivo Pasto	0 : 1	Envigado F. C.	Departamental Libertad	12 de febrero	20:10
+Águilas Doradas	1 : 1	La Equidad	Alberto Grisales	13 de febrero	18:10
+Santa Fe	1 : 0	Deportivo Cali	Nemesio Camacho El Campín	20:20	Win Sports+
+Once Caldas	1 : 0	Patriotas	Palogrande	14 de febrero	18:10	Win Sports+ y Win Sports
+Boyacá Chicó	3 : 0	Independiente Medellín	La Independencia	20:20	Win Sports+
+Deportes Tolima	2 : 0	Jaguares	Manuel Murillo Toro	15 de febrero	18:10	Win Sports+ y Win Sports
+América	0 : 0	Atlético Bucaramanga	Olímpico Pascual Guerrero	20:20	Win Sports+
+Fecha 7
+Millonarios	0 : 1	Águilas Doradas	Nemesio Camacho El Campín	16 de febrero	18:10	Win Sports+
+Deportivo Cali	3 : 2	Atlético Nacional	Deportivo Cali	20:20
+Independiente Medellín	2 : 2	Fortaleza CEIF	Atanasio Girardot	17 de febrero	18:05	Win Sports+ y Win Sports
+Deportivo Pereira	1 : 0	Santa Fe	Hernán Ramírez Villegas	20:15	Win Sports+
+La Equidad	1 : 0	Patriotas	Metropolitano de Techo	18 de febrero	14:00
+Envigado F. C.	1 : 1	América	Polideportivo Sur	16:00
+Jaguares	3 : 0	Once Caldas	Jaraguay	18:10	Win Sports+ y Win Sports
+Junior	0 : 1	Deportes Tolima	Metropolitano Roberto Meléndez	20:20	Win Sports+
+Boyacá Chicó	1 : 0	Alianza F. C.	La Independencia	19 de febrero	16:00	Win Sports+ y Win Sports
+Atlético Bucaramanga	1 : 0	Deportivo Pasto	Alfonso López	20:20
+Fecha 8
+Santa Fe	3 : 0	Junior	Nemesio Camacho El Campín	21 de febrero	19:45	Win Sports+
+Deportes Tolima	0 : 0	Atlético Bucaramanga	Manuel Murillo Toro	22 de febrero	16:00	Win Sports+ y Win Sports
+América	0 : 1	La Equidad	Olímpico Pascual Guerrero	18:10	Win Sports+
+Once Caldas	1 : 2	Deportivo Pereira	Palogrande	20:20
+Fortaleza CEIF	1 : 1	Boyacá Chicó	Metropolitano de Techo	23 de febrero	16:00	Win Sports+ y Win Sports
+Águilas Doradas	2 : 0	Envigado F. C.	Alberto Grisales	18:10
+Deportivo Pasto	0 : 1	Deportivo Cali	Departamental Libertad	20:20
+Alianza F. C.	2 : 0	Independiente Medellín	Armando Maestre Pavajeau	24 de febrero	18:10
+Patriotas	1 : 0	Millonarios	La Independencia	20:20	
+
+Fecha 9
+Jaguares	1 : 1	América	Jaraguay	25 de febrero	16:30	Win Sports+
+La Equidad	2 : 0	Atlético Nacional	Nemesio Camacho El Campín	18:30
+Deportivo Pereira	3 : 3	Junior	Hernán Ramírez Villegas	20:30
+Boyacá Chicó	1 : 2	Santa Fe	La Independencia	26 de febrero	18:10	Win Sports+ y Win Sports
+Deportivo Cali	1 : 2	Deportes Tolima	Deportivo Cali	20:20
+Envigado F. C.	1 : 0	Patriotas	Polideportivo Sur	27 de febrero	16:00	Win Sports+
+Millonarios  0 : 2  Once Caldas
+Fortaleza CEIF	1 : 2	Alianza F. C.	Metropolitano de Techo	28 de febrero	15:15	Win Sports+ y Win Sports
+Independiente Medellín	1 : 0	Deportivo Pasto	Atanasio Girardot	29 de febrero	19:45	Win Sports+
+
+Fecha 10
+Envigado F. C.	2 : 2	Jaguares	Polideportivo Sur	1 de marzo	16:00	Win Sports+
+Boyacá Chicó	1 : 1	Deportes Tolima	La Independencia	18:10
+Deportivo Cali	0 : 1	Once Caldas	Deportivo Cali	20:20
+Millonarios	1 : 2	La Equidad	Nemesio Camacho El Campín	2 de marzo	16:00
+Deportivo Pereira	2 : 0	América	Hernán Ramírez Villegas	18:10
+Junior	0 : 0	Atlético Nacional	Metropolitano Roberto Meléndez	20:20
+Atlético Bucaramanga	3 : 0	Patriotas	Alfonso López	3 de marzo	16:00	Win Sports+ y Win Sports
+Independiente Medellín	1 : 0	Águilas Doradas	Atanasio Girardot	18:10	Win Sports+
+Alianza F. C.	0 : 1	Santa Fe	Armando Maestre Pavajeau	20:20	Win Sports+ y Win Sports
+Deportivo Pasto	1 : 0	Fortaleza CEIF	Departamental Libertad	4 de marzo	20:10

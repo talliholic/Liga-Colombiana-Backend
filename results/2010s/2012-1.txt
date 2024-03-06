@@ -1,0 +1,232 @@
+Fecha 1
+Patriotas	0 : 3	Tolima	La Independencia	27 de enero	21:00	FPC
+Envigado	2 : 2	Cúcuta	Polideportivo Sur	28 de enero	15:30
+Pasto	0 : 0	Medellín	La Libertad	17:45
+Once Caldas	2 : 2	Real Cartagena	Palogrande	20:00
+Junior	1 : 1	Quindío	Metropolitano Roberto Meléndez	29 de enero	15:30
+La Equidad	0 : 0	Itagüí	Metropolitano de Techo	No
+Huila	3 : 0	Boyacá Chicó	Guillermo Plazas Alcid	FPC
+Santa Fe	1 : 1	Millonarios	El Campín	17:00	RCN
+Nacional	4 : 0	Deportivo Cali	Atanasio Girardot	17:45	FPC
+Fecha 2
+Cúcuta	0 : 1	Patriotas	General Santander	3 de febrero	21:00	FPC
+Itagüí	1 : 0	Nacional	Ditaires	4 de febrero	15:30
+Quindío	2 : 2	Pasto	Centenario
+Deportivo Cali	2 : 1	Once Caldas	Pascual Guerrero	17:45	RCN
+Millonarios	1 : 1	Huila	El Campín	20:00	FPC
+Real Cartagena	2 : 1	Junior	Jaime Morón	5 de febrero	15:00
+Boyacá Chicó	1 : 1	La Equidad	La Independencia
+Medellín	2 : 2	Envigado	Atanasio Girardot
+Tolima	2 : 1	Santa Fe	Manuel Murillo Toro	17:00
+Fecha 3
+Nacional	4 : 0	Boyacá Chicó	Atanasio Girardot	10 de febrero	21:00	FPC
+Patriotas	2 : 1	Medellín	La Independencia	11 de febrero	17:00
+Huila	3 : 0	Tolima	Guillermo Plazas Alcid
+Santa Fe	2 : 0	Cúcuta	El Campín	18:30	RCN TV
+Real Cartagena	2 : 2	Deportivo Cali	Jaime Moron	19:15	FPC
+Once Caldas	2 : 2	Itagüí	Palogrande	12 de febrero	14:30
+Pasto	1 : 1	Junior	Departamental Libertad
+Envigado	3 : 0	Quindío	Polideportivo Sur	NO
+La Equidad	0 : 1	Millonarios	Metropolitano de Techo	17:00	FPC
+[ocultar]Fecha 4
+Junior	1 : 0	Deportivo Cali	Metropolitano Roberto Melendez	17 de febrero	21:00	FPC
+Boyacá Chicó	1 : 0	Once Caldas	La Independencia	18 de febrero	17:00
+Tolima	1 : 1	La Equidad	Manuel Murillo Toro
+Millonarios	2 : 3	Nacional	El Campín	18:30	RCN TV
+Medellín	1 : 1	Santa Fe	Atanasio Girardot	19:15	FPC
+Itagüí	3 : 1	Real Cartagena	Ditaires	19 de febrero	15:00
+Cúcuta	1 : 0	Huila	General Santander
+Pasto	3 : 1	Envigado	Departamental Libertad	NO
+Quindío	1 : 1	Patriotas	Centenario	17:00	FPC
+[ocultar]Fecha 5
+Real Cartagena	0 : 0	Boyacá Chicó	Jaime Morón	24 de febrero	21:00	FPC
+Patriotas	0 : 0	Pasto	La Independencia	25 de febrero	17:00
+Huila	1 : 0	Medellín	Guillermo Plazas Alcid
+La Equidad	4 : 1	Cúcuta	Metropolitano de Techo	No
+Once Caldas	0 : 0	Millonarios	Palogrande	18:30	RCN TV
+Nacional	0 : 1	Tolima	Atanasio Girardot	19:15	FPC
+Deportivo Cali	0 : 1	Itagüí	Pascual Guerrero	25 de febrero	15:00
+Envigado	2 : 1	Junior	Polideportivo Sur
+Santa Fe	1 : 1	Quindío	El Campín	17:00
+[ocultar]Fecha 6
+Junior	2 : 1	Itagüí	Metropolitano Roberto Melendez	2 de marzo	21:15	FPC
+Boyacá Chicó	3 : 1	Deportivo Cali	La Independencia	3 de marzo	17:00
+Envigado	2 : 0	Patriotas	Polideportivo Sur
+Millonarios	1 : 1	Real Cartagena	El Campín	18:30	RCN
+Tolima	1 : 0	Once Caldas	Manuel Murillo Toro	19:15	FPC
+Cúcuta	1 : 0	Nacional	General Santander	4 de marzo	15:00
+Quindío	0 : 2	Huila	Centenario
+Pasto	1 : 1	Santa Fe	Libertad	No
+Medellín	0 : 1	La Equidad	Atanasio Girardot	17:00	FPC
+[ocultar]Fecha 7
+Once Caldas	4 : 0	Cúcuta	Palogrande	9 de marzo	20:30	FPC
+Huila	1 : 0	Pasto	Guillermo Plazas Alcid	10 de marzo	15:30
+La Equidad	2 : 1	Quindío	Metropolitano de techo	NO
+Itagüí	1 : 1	Boyacá Chicó	Ditaires	FPC
+Deportivo Cali	1 : 0	Millonarios	Pascual Guerrero	18:30	RCN
+Santa Fe	1 : 1	Envigado	El Campín	19:00	FPC
+Patriotas	2 : 1	Junior	La Independencia	11 de marzo	15:00	FPC
+Real Cartagena	1 : 3	Tolima	Jaime Morón
+Nacional	1 : 2	Medellín	Atanasio Girardot	17:00
+[ocultar]Fecha 8
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Junior	3 : 1	Boyacá Chicó	Metropolitano Roberto Melendez	16 de marzo	20:45	FPC
+Cúcuta	0 : 1	Real Cartagena	General Santander	17 de marzo	17:00
+Patriotas	0 : 0	Santa Fe	La independencia
+Quindío	2 : 2	Nacional	Centenario	18:30	RCN TV
+Medellín	2 : 1	Once Caldas	Atanasio Girardot	19:00	FPC
+Pasto	3 : 1	La Equidad	Libertad	18 de marzo	15:00	NO
+Envigado	1 : 1	Huila	Polideportivo Sur	FPC
+Tolima	1 : 1	Deportivo Cali	Manuel Murillo Toro
+Millonarios	1 : 0	Itagüí	El Campín	17:00
+[ocultar]Fecha 9
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Quindío	1 : 3	Once Caldas	Centenario	23 de marzo	21:30	FPC
+Itagüí	4 : 2	Envigado	Ditaires	24 de marzo	15:30
+Boyacá Chicó	0 : 1	Patriotas	La independencia
+Millonarios	3 : 4	Santa Fe	El Campín	18:30	RCN TV
+Deportivo Cali	1 : 0	Pasto	Pascual Guerrero	19:30	FPC
+Junior	3 : 1	Real Cartagena	Metropolitano Roberto Melendez	25 de marzo	15:00	FPC
+Tolima	1 : 1	Huila	Manuel Murrillo Toro
+Cúcuta	0 : 1	La Equidad	General Santander	NO
+Medellín	1 : 0	Nacional	Atanasio Girardot	17:00	FPC
+[ocultar]Fecha 10
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Real Cartagena	3 : 2	Medellín	Jaime Morón	30 de marzo	21:15	FPC
+Huila	3 : 0	Patriotas	Guillermo Plazas Alcid	31 de marzo	17:00
+La Equidad	1 : 0	Envigado	Metropolitano de techo
+Santa Fe	2 : 1	Junior	El Campín	18:30	RCN
+Deportivo Cali	1 : 0	Cúcuta	Pascual Guerrero	19:00	FPC
+Once Caldas	0 : 0	Quindío	Palogrande	1 de abril	15:00
+Itagüí	2 : 3	Tolima	Ditaires	NO
+Boyacá Chicó	1 : 1	Millonarios	La Independencia	FPC
+Nacional	0 : 1	Pasto	Atanasio Girardot	17:00
+[ocultar]Fecha 11
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Quindío	3 : 2	Real Cartagena	Centenario	7 de abril	17:00	FPC
+Pasto	4 : 1	Once Caldas	Libertad
+Envigado	0 : 0	Nacional	Polideportivo Sur	18:30	RCN
+Tolima	2 : 2	Boyacá Chicó	Manuel Murillo Toro	19:15	FPC
+Santa Fe	4 : 0	Huila	El Campín
+Junior	1 : 3	Millonarios	Metropolitano Roberto Melendez	8 de abril	15:00
+Cúcuta	0 : 1	Itagüí	General Santander	NO
+Patriotas	0 : 2	La Equidad	La Independencia	FPC
+Medellín	0 : 1	Deportivo Cali	Atanasio Girardot	17:00
+[ocultar]Fecha 12
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Deportivo Cali	1 : 1	Quindío	Pascual Guerrero	13 de abril	21:00	FPC
+Itagüí	1 : 1	Medellín	Metropolitano Ditaires	14 de abril	15:30
+Boyacá Chicó	5 : 2	Cúcuta	La Independencia
+Huila	1 : 3	Junior	Guillermo Plazas Alcid	18:30	RCN
+Millonarios	1 : 1	Tolima	El Campín	20:30	FPC
+La Equidad	0 : 1	Santa Fe	Metropolitano de Techo	15 de abril	15:00
+Once Caldas	1 : 1	Envigado	Palogrande	NO
+Real Cartagena	1 : 1	Pasto	Jaime Moron	FPC
+Nacional	1 : 0	Patriotas	Atanasio Girardot	17:00
+[ocultar]Fecha 13
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Huila	0 : 0	La Equidad	Guillermo Plazas Alcid	20 de abril	21:45	FPC
+Envigado	1 : 0	Real Cartagena	Polideportivo Sur	21 de abril	17:00
+Patriotas	1 : 0	Once Caldas	La Independencia
+Junior	1 : 2	Tolima	Metropolitano Roberto Melendez	18:30	RCN
+Quindío	2 : 1	Itagüí	Centenario	19:30	FPC
+Medellín	0 : 3	Boyacá Chicó	Atanasio Girardot	22 de abril	15:00
+Pasto	1 : 1	Deportivo Cali	Libertad	NO
+Cúcuta	2 : 1	Millonarios	General Santader	17:00	FPC
+Santa Fe	2 : 2	Nacional	El Campín	25 de abril	20:45
+[ocultar]Fecha 14
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+La Equidad	0 : 0	Junior	Metropolitano de Techo	27 de abril	21:45	FPC
+Itagüí	3 : 0	Pasto	Metropolitano Ditaires	28 de abril	15:30
+Boyacá Chicó	2 : 0	Quindío	La Independencia
+Millonarios	2 : 1	Medellín	El Campín	18:30	RCN
+Nacional	1 : 2	Huila	Atanasio Girardot	20:30	FPC
+Real Cartagena	2 : 2	Patriotas	Jaime Morón	29 de abril	15:00	NO
+Deportivo Cali	1 : 1	Envigado	Pascual Guerrero	FPC
+Tolima	3 : 0	Cúcuta	Manuel Murillo Toro
+Once Caldas	2 : 2	Santa Fe	Palogrande	17:00
+[ocultar]Fecha 15
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+La Equidad	3 : 2	Nacional	Metropolitano de Techo	4 de mayo	20:45	FPC
+Envigado	1 : 2	Itagüí	Polideportivo Sur	5 de mayo	16:30
+Patriotas	1 : 0	Deportivo Cali	La Independencia
+Santa Fe	5 : 0	Real Cartagena	El Campín	18:30	RCN
+Huila	3 : 2	Once Caldas	Guillermo Plazas Alcid	20:30	FPC
+Pasto	2 : 0	Boyacá Chicó	Libertad	6 de mayo	15:00	NO
+Junior	4 : 0	Cúcuta	Metropolitano Roberto Melendez	FPC
+Medellín	0 : 1	Tolima	Atanasio Girardot
+Quindío	2 : 2	Millonarios	Centenario	17:00
+[ocultar]Fecha 16
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Once Caldas	1 : 1	La Equidad	Palogrande	11 de mayo	20:45	FPC
+Itagüí	1 : 1	Patriotas	Ditaires	12 de mayo	15:30
+Boyacá Chicó	4 : 1	Envigado	La Independencia
+Deportivo Cali	2 : 0	Santa Fe	Pascual Guerrero	18:30	RCN
+Millonarios	1 : 2	Deportivo Pasto	El Campín	21:00	FPC
+Real Cartagena	1 : 0	Huila	Jaime Morón	13 de mayo	15:00
+Tolima	2 : 0	Quindío	Manuel Murillo Toro
+Cúcuta	1 : 2	Medellín	General Santander	NO
+Nacional	3 : 1	Junior	Atanasio Girardot	17:00	FPC
+[ocultar]Fecha 17
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Quindío	1 : 0	Cúcuta	Centenario	18 de mayo	21:30	FPC
+Patriotas	0 : 0	Boyacá Chicó	La Independencia	19 de mayo	16:00
+La Equidad	1 : 1	Real Cartagena	Metropolitano de Techo
+Pasto	1 : 1	Tolima	Libertad	18:00	RCN
+Santa Fe	1 : 0	Itagüí	El Campín	20:30	FPC
+Huila	1 : 1	Deportivo Cali	Guillermo Plazas Alcid	20 de mayo	15:00
+Nacional	1 : 0	Once Caldas	Atanasio Girardot
+Envigado	1 : 1	Millonarios	Polideportivo Sur	16:30	RCN
+Junior	1 : 0	Medellín	Metropolitano Roberto Melendez	17:00	FPC
+[ocultar]Fecha 18
+Local	Resultado	Visitante	Estadio	Fecha	Hora	Directo TV
+Medellín	2 : 2	Quindío	Atanasio Girardot	26 de mayo	16:00	FPC
+Tolima	0 : 1	Envigado	Manuel Murillo Toro	18:45
+Once Caldas	2 : 2	Junior	Palogrande	27 de mayo	15:30
+Real Cartagena	1 : 1	Nacional	Jaime Morón
+Itagüí	1 : 0	Huila	Ditaires
+Boyacá Chicó	2 : 0	Santa Fe	La Independencia
+Millonarios	0 : 1	Patriotas	El Campín
+Cúcuta	2 : 2	Pasto	General Santander
+Deportivo Cali	3 : 0	La Equidad	Pascual Guerrero	RCN
+Fecha
+Deportivo Pasto	1 : 1	Deportivo Cali	Libertad	13 de junio	19:15	FPC
+Atlético Huila	0 : 1	Deportes Tolima	Guillermo Plazas Alcid	21:30
+Itagüí	1 : 1	La Equidad	Ditaires	14 de junio	15:15	FPC
+Santa Fe	1 : 0	Boyacá Chicó	El Campín	21:00
+Fecha
+Deportivo Cali	2 : 1	Huila	Pascual Guerrero	16 de junio	18:30	RCN
+Tolima	0 : 1	Pasto	Manuel Murillo Toro	20:45	FPC
+Boyacá Chicó	0 : 1	Itagüí	La Independencia	17 de junio	15:30
+La Equidad	2 : 2	Santa Fe	Metropolitano de Techo	17:00	RCN
+Fecha
+Pasto	1 : 1	Huila	Libertad	24 de junio	15:30
+Deportivo Cali	1 : 1	Tolima	Pascual Guerrero	17:00	RCN
+Itagüí	0 : 1	Santa Fe	Ditaires	23 de junio	15:30	FPC
+La Equidad	3 : 1	Boyacá Chicó	Metropolitano de Techo	18:30	RCN
+Fecha
+Tolima	1 : 0	Deportivo Cali	Manuel Murillo Toro	30 de junio	18:30
+Huila	0 : 1	Pasto	Guillermo Plazas Alcid	20:00	FPC
+Boyacá Chicó	2 : 1	La Equidad	La Independencia	1 de julio	15:30	FPC
+Santa Fe	2 : 1	Itagüí	El Campín	17:00	RCN
+Fecha
+Pasto	3 : 1	Tolima	Libertad	4 de julio	19:30
+Huila	0 : 1	Deportivo Cali	Guillermo Plazas Alcid	21:45
+Santa Fe	2 : 1	La Equidad	El Campín	5 de julio	21:00	FPC
+Itagüí	0 : 1	Boyacá Chicó	Ditaires	15:30
+Fecha
+Deportivo Cali	3 : 0	Pasto	Pascual Guerrero	8 de julio	17:00	RCN
+Tolima	2 : 0	Huila	Manuel Murillo Toro	FPC
+La Equidad	2 : 1	Itagüí	Metropolitano de Techo	8 de julio	14:45
+Boyacá Chicó	2 : 2	Santa Fe	La Independencia	RCN
+Fecha
+Deportivo Pasto  1:1  Santa Fe	Estadio Departamental Libertad
+Fecha
+Santa Fe 	 1:0  Deportivo Pasto	Estadio El Campín, Bogotá
+
+
+
+
+
+
+

@@ -1,0 +1,309 @@
+Round 1
+[Jul 26]
+Huila              2-3 Nacional           
+Cúcuta             1-2 Itagüí             
+[Jul 27]
+Pasto              1-0 Quindío            
+Boyacá Chicó       0-0 Patriotas          
+La Equidad         1-1 Millonarios        
+[Jul 28]
+Medellín           1-1 Tolima             
+Once Caldas        0-3 Cali               
+Envigado           0-1 Junior             
+[Jul 30]
+Santa Fe           2-2 Alianza Petrolera  
+
+Round 2
+[Aug 2]
+Cali               1-1 Boyacá Chicó       
+[Aug 3]
+Junior             1-0 Once Caldas        
+Nacional           1-1 Santa Fe           
+Itagüí             1-0 Huila              
+Patriotas          1-1 Pasto              
+[Aug 4]
+Alianza Petrolera  1-2 La Equidad         
+Quindío            0-3 Cúcuta   *Local pierde puntos por invasión original 0-0          
+Tolima             1-0 Envigado           
+Millonarios        2-2 Medellín           
+
+Round 3
+[Aug 9]
+Cúcuta             2-3 Patriotas          
+[Aug 10]
+Alianza Petrolera  1-2 Nacional           
+Santa Fe           2-1 Itagüí             
+Pasto              1-1 Cali               
+Once Caldas        4-0 Tolima             
+[Aug 11]
+Boyacá Chicó       1-1 Junior             
+Huila              1-1 Quindío            
+Envigado           2-1 Millonarios        
+Medellín           2-1 La Equidad         
+
+Round 4
+[Aug 16]
+La Equidad         0-0 Envigado           
+[Aug 17]
+Millonarios        3-0 Once Caldas        
+Tolima             1-1 Boyacá Chicó       
+Quindío            0-2 Santa Fe           
+Itagüí             0-4 Nacional           
+[Aug 18]
+Medellín           0-1 Alianza Petrolera  
+Junior             0-1 Pasto              
+Cali               2-1 Cúcuta             
+Patriotas          2-1 Huila              
+
+Round 5
+[Aug 21]
+Huila              1-0 Cali               
+Envigado           0-4 Medellín           
+Santa Fe           2-1 Patriotas          
+Cúcuta             1-5 Junior             
+[Aug 22]
+Once Caldas        2-2 La Equidad         
+[Sep 7]
+Boyacá Chicó       1-1 Millonarios        
+Nacional           2-1 Quindío            
+[Sep 8]
+Alianza Petrolera  1-0 Itagüí             
+Pasto              1-1 Tolima             
+
+Round 6
+[Aug 24]
+Quindío            0-2 Itagüí             
+Tolima             2-1 Cúcuta             
+Cali               2-0 Santa Fe           
+[Aug 25]
+La Equidad         5-2 Boyacá Chicó       
+Medellín           1-2 Once Caldas        
+Millonarios        4-0 Pasto              
+Junior             2-1 Huila              
+Envigado           0-0 Alianza Petrolera  
+[Oct 13]
+Patriotas          1-0 Nacional           
+
+Round 7
+[Aug 28]
+Alianza Petrolera  1-1 Quindío            
+Huila              1-1 Tolima             
+Santa Fe           3-0 Junior             
+Cúcuta             0-1 Millonarios        
+[Aug 29]
+Nacional           2-0 Cali               
+Once Caldas        2-1 Envigado           
+[Sep 5]
+Itagüí             2-0 Patriotas          
+[Sep 11]
+Boyacá Chicó       3-1 Medellín           
+[Oct 13]	 
+Pasto              4-1 La Equidad         
+
+Round 8
+[Aug 31]
+Millonarios        3-2 Huila              
+[Sep 1]
+Once Caldas        1-1 Alianza Petrolera  
+Envigado           2-2 Boyacá Chicó       
+Medellín           0-0 Pasto              
+Junior             0-1 Nacional           
+Cali               1-0 Itagüí             
+Patriotas          3-0 Quindío            
+[Sep 2]
+La Equidad         0-0 Cúcuta             
+[Oct 12]
+Tolima             1-1 Santa Fe           
+
+Round 9
+[Sep 14]
+Nacional           2-0 Medellín           
+Quindío            2-1 Once Caldas        
+Patriotas          1-0 Boyacá Chicó       
+Junior             1-1 Cúcuta             
+La Equidad         4-0 Alianza Petrolera  
+[Sep 15]
+Itagüí             0-1 Envigado           
+Cali               0-0 Pasto              
+Tolima             1-0 Huila              
+Millonarios        0-0 Santa Fe           
+
+Round 10
+[Sep 20] 
+Itagüí             4-0 Junior             
+[Sep 21]
+Alianza Petrolera  0-0 Patriotas          
+Santa Fe           0-0 Millonarios        
+Pasto              0-0 Envigado           
+Nacional           2-0 Tolima             
+[Sep 22]
+Cúcuta             0-1 Medellín           
+Quindío            0-5 Cali               
+Huila              1-1 La Equidad         
+Boyacá Chicó       0-1 Once Caldas        
+
+Round 11
+[Sep 18]
+Once Caldas        1-1 Pasto              
+[Sep 25]
+Envigado           2-0 Cúcuta             
+Cali               1-1 Patriotas          
+Medellín           4-0 Huila              
+La Equidad         1-1 Santa Fe           
+Junior             3-0 Quindío            
+[Sep 26]
+Boyacá Chicó       1-2 Alianza Petrolera  
+[Oct 8]
+Millonarios        0-2 Nacional           
+[Oct 16]
+Tolima             1-1 Itagüí             
+
+Round 12
+[Sep 28]
+Patriotas          0-2 Junior             
+Cúcuta             0-0 Once Caldas        
+Quindío            1-0 Tolima             
+Huila              2-1 Envigado           
+[Sep 29]
+Itagüí             2-2 Millonarios        
+Pasto              4-3 Boyacá Chicó       
+Alianza Petrolera  0-2 Cali               
+Santa Fe           1-1 Medellín           
+Nacional           0-0 La Equidad         
+
+Round 13
+[Oct 1]
+Tolima             1-1 Patriotas          
+[Oct 2]
+Pasto              2-1 Alianza Petrolera  
+Medellín           1-1 Nacional           
+Millonarios        2-0 Quindío            
+Junior             1-1 Cali               
+Envigado           2-1 Santa Fe           
+[Oct 3]
+Boyacá Chicó       3-1 Cúcuta             
+Once Caldas        2-0 Huila              
+[Oct 10]
+La Equidad         2-0 Itagüí             
+
+Round 14
+[Oct 5]
+Alianza Petrolera  1-1 Junior             
+Cali               0-0 Tolima             
+Patriotas          2-2 Millonarios        
+Nacional           4-1 Envigado           
+[Oct 6]
+Quindío            1-0 La Equidad         
+Itagüí             1-0 Medellín           
+Santa Fe           1-0 Once Caldas        
+Huila              2-1 Boyacá Chicó       
+Cúcuta             1-2 Pasto              
+
+Round 15
+[Oct 18]
+Pasto              2-2 Huila              
+[Oct 19]
+Once Caldas        0-1 Nacional           
+Envigado           1-1 Itagüí             
+Millonarios        1-0 Cali               
+Tolima             3-3 Junior             
+[Oct 20]
+Cúcuta             2-0 Alianza Petrolera  
+Boyacá Chicó       0-2 Santa Fe           
+Medellín           1-0 Quindío            
+La Equidad         1-0 Patriotas          
+
+Round 16
+[Oct 25]
+Patriotas          0-0 Medellín           
+[Oct 26]
+Alianza Petrolera  2-1 Tolima             
+Cali               1-0 La Equidad         
+Santa Fe           2-0 Pasto              
+Huila              2-2 Cúcuta             
+[Oct 27]
+Junior             3-2 Millonarios        
+Quindío            1-2 Envigado           
+Itagüí             0-4 Once Caldas        
+Nacional           0-1 Boyacá Chicó       
+
+Round 17
+[Nov 2]
+Huila              2-0 Alianza Petrolera  
+Cúcuta             1-0 Santa Fe           
+Once Caldas        3-0 Quindío            
+Envigado           1-1 Patriotas          
+[Nov 3]
+Pasto              1-1 Nacional           
+Boyacá Chicó       0-2 Itagüí             
+Medellín           3-1 Cali               
+La Equidad         2-2 Junior             
+Millonarios        2-1 Tolima             
+
+Round 18
+[Nov 9]
+Alianza Petrolera  0-1 Millonarios        
+Quindío            2-1 Boyacá Chicó       
+Nacional           1-2 Cúcuta             
+[Nov 10]
+Tolima             3-1 La Equidad         
+Junior             3-2 Medellín           
+Cali               1-1 Envigado           
+Patriotas          0-1 Once Caldas        
+Itagüí             1-0 Pasto              
+Santa Fe           3-4 Huila              
+Round 1
+[Nov 16]
+Itagüí             0-1 Junior             
+[Nov 28]
+Santa Fe           0-2 Nacional           
+
+Round 2 [Nov 21]
+Nacional           3-2 Itagüí             
+Junior             3-2 Santa Fe           
+
+Round 3 [Nov 24]
+Junior             0-0 Nacional           
+Itagüí             1-2 Santa Fe           
+
+Round 4 [Dec 1]
+Nacional           2-1 Junior             
+Santa Fe           0-2 Itagüí             
+
+Round 5 [Dec 5]
+Santa Fe           2-1 Junior             
+Itagüí             0-4 Nacional           
+
+Round 6 [Dec 8]
+Junior             4-1 Itagüí             
+Nacional           2-1 Santa Fe        
+Round 1
+[Nov 16]
+Cali               3-2 Pasto              
+[Nov 27]
+Once Caldas        2-1 Millonarios       
+
+Round 2 [Nov 20]
+Pasto              2-1 Once Caldas        
+Millonarios        0-1 Cali               
+
+Round 3 [Nov 23]
+Millonarios        2-0 Pasto              
+Once Caldas        1-2 Cali               
+
+Round 4 [Nov 30]
+Pasto              4-1 Millonarios        
+Cali               1-0 Once Caldas        
+
+Round 5 [Dec 4]
+Cali               4-2 Millonarios        
+Once Caldas        3-1 Pasto              
+
+Round 6 [Dec 7]
+Pasto              3-2 Cali               
+Millonarios        3-1 Once Caldas        
+First Leg [Dec 11]
+Cali               0-0 Nacional           
+
+Second Leg [Dec 15]
+Nacional           2-0 Cali               

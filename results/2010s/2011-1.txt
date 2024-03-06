@@ -1,0 +1,200 @@
+Fecha 1
+Real Cartagena	4 - 2	Junior	Diego Carvajal	5 de febrero	1530	Telmex / Une
+Deportes Tolima	1 - 0	Independiente Santa Fe	Manuel Murillo Toro	1830	RCN
+Boyacá Chicó	1 - 1	Once Caldas	De La Independencia	2030	Telmex / Une
+Millonarios	2 - 3	Atlético Huila	El Campín	6 de febrero	1515
+Itagüí Ditaires	2 - 1	Independiente Medellín	Ditaires	1530	No
+Deportes Quindío	2 - 0	América	Centenario
+Deportivo Cali	1 - 2	Cúcuta Deportivo	Deportivo Cali
+Atlético Nacional	2 - 3	Envigado F.C.	Atanasio Girardot	1700	RCN
+Deportivo Pereira	0 - 1	La Equidad	Alfonso López	17 de febrero	1400	No
+[ocultar]Fecha 2
+Junior	1 - 0	Tolima	Metropolitano Roberto Meléndez	11 de febrero	2100	Telmex / Une
+La Equidad	1 - 1	Nacional	El Campín	12 de febrero	1515
+Once Caldas	2 - 0	Cali	Palogrande	1820	RCN
+Santa Fe	0 - 1	Quindío	El Campín	13 de febrero	1515	No
+Envigado	2 - 2	Itagüí	Polideportivo Sur	1530
+América	3 - 2	Pereira	Francisco Rivera Escobar	Telmex / Une
+At. Huila	3 - 0	Real Cartagena	Guillermo Plazas Alcid	No
+Medellín	1 - 0	Boyacá Chicó	Atanasio Girardot
+Cúcuta	0 - 1	Millonarios	General Santander	1700	RCN
+[ocultar]Fecha 3
+Tolima	3 - 1	At. Huila	Manuel Murillo Toro	18 de febrero	2100	Telmex / Une
+Millonarios	0 - 2	Once Caldas	El Campín	19 de febrero	1515
+Nacional	3 - 1	América	Atanasio Girardot	1830	RCN
+Boyacá Chicó	1 - 2	Itagüí	De La Independencia	20 de febrero	1530	No
+Real Cartagena	1 - 1	Cúcuta	Diego Carvajal
+Quindío	1 - 1	Junior	Centenario
+Pereira	1 - 1	Santa Fe	Alfonso López	Telmex / Une
+Envigado	0 - 0	La Equidad	Polideportivo Sur	No
+Cali	0 - 2	Medellín	Deportivo Cali	1700	RCN
+[ocultar]Fecha 4
+América	2 - 1	Envigado	Francisco Rivera Escobar	26 de febrero	1515	Telmex / Une
+Medellín	3 - 3	Millonarios	Atanasio Girardot	1830	RCN
+Once Caldas	3 - 2	Real Cartagena	Palogrande	2030	Telmex / Une
+Santa Fe	0 - 0	Nacional	El Campín	27 de febrero	1515
+Itagüí	2 - 1	La Equidad	Ditaires	1530	No
+At. Huila	0 - 1	Quindío	Guillermo Plazas Alcid
+Cúcuta	2 - 3	Tolima	General Santander
+Boyacá Chicó	2 - 0	Cali	De La Independencia
+Junior	2 - 1	Pereira	Metropolitano Roberto Meléndez	1700	RCN
+[ocultar]Fecha 5
+Envigado	3 - 1	Santa Fe	Polideportivo Sur	4 de marzo	2100	Telmex / Une
+Millonarios	3 - 1	Boyacá Chicó	El Campín	5 de marzo	1515
+Nacional	4 - 1	Junior	Atanasio Girardot	1830	RCN
+La Equidad	1 - 0	América	El Campín	6 de marzo	1515	No
+Cali	1 - 0	Itagüí	Deportivo Cali	1530
+Real Cartagena	2 - 0	Medellín	Diego Carvajal	Telmex / Une
+Quindío	0 - 1	Cúcuta	Centenario	No
+Pereira	0 - 0	At. Huila	Alfonso López
+Tolima	1 - 3	Once Caldas	Manuel Murillo Toro	1700	RCN
+[ocultar]Fecha 6
+Santa Fe	1 - 0	La Equidad	El Campín	12 de marzo	1515	Telmex / Une
+Cali	0 - 0	Millonarios	Deportivo Cali	1830	RCN
+Once Caldas	5 - 1	Quindío	Palogrande	2030	No
+Medellín	3 - 1	Tolima	Atanasio Girardot	Telmex / Une
+Itagüí	1 - 0	América	Ditaires	13 de marzo	1530
+Junior	1 - 2	Envigado	Metropolitano Roberto Meléndez	No
+Cúcuta	4 - 0	Pereira	General Santander	Une
+Boyacá Chicó	3 - 0	Real Cartagena	De La Independencia	No
+At. Huila	1 - 3	Nacional	Guillermo Plazas Alcid	1700	RCN
+[ocultar]Fecha 7
+Once Caldas	2 - 0	Pereira	Palogrande	18 de marzo	2100	Telmex / Une
+Millonarios	2 - 1	Itagüí	El Campín	19 de marzo	1515
+Quindío	2 - 1	Medellín	Centenario	1530	Une
+Nacional	3 - 0	Cúcuta	Atanasio Girardot	1830	RCN
+La Equidad	3 - 0	Junior	Alfonso López (UN)	20 de marzo	1515	No
+Real Cartagena	1 - 1	Cali	Diego Carvajal	1530
+Tolima	3 - 1	Boyacá Chicó	Manuel Murillo Toro
+América	2 - 0	Santa Fe	Francisco Rivera Escobar	RCN
+Envigado	1 - 1	At. Huila	Polideportivo Sur	1700	Telmex / Une
+[ocultar]Fecha 8
+Itagüí	2 - 2	Santa Fe	Ditaires	26 de marzo	1515	Telmex / Une
+Junior	1 - 1	América	Metropolitano Roberto Meléndez	1830	RCN
+Cali	0 - 2	Tolima	Deportivo Cali	2030	Telmex / Une
+Medellín	2 - 2	Pereira	Atanasio Girardot	27 de marzo	1515	Une
+Millonarios	3 - 0	Real Cartagena	El Campín	RCN
+At. Huila	1 - 1	La Equidad	Guillermo Plazas Alcid	1530	No
+Cúcuta	1 - 1	Envigado	General Santander
+Boyacá Chicó	2 - 1	Quindío	De La Independencia
+Once Caldas	3 - 1	Nacional	Palogrande	1700	Telmex / Une
+[ocultar]Fecha 9
+Medellín	2 - 3	Nacional	Atanasio Girardot	2 de abril	1515	Telmex / Une
+América	2 - 3	Cali	Doce de Octubre	1830	RCN
+Junior	2 - 0	Real Cartagena	Metropolitano Roberto Meléndez	2030	Telmex / Une
+La Equidad	2 - 0	Boyacá Chicó	Alfonso López (UN)	
+Santa Fe	0 - 2	Millonarios	El Campín	RCN
+Cúcuta	2 - 0	Quindío	General Santander	1530	No
+Pereira	1 - 0	Once Caldas	Alfonso López
+Itagüí	1 - 1	Envigado	Ditaires
+At. Huila	4 - 7	Tolima	Guillermo Plazas Alcid	1700	Telmex / Une
+[ocultar]Fecha 10
+Nacional	1 - 0	Medellín	Atanasio Girardot	6 de abril	1515	Telmex / Une
+La Equidad	1 - 1	Cúcuta	Alfonso López (UN)	No
+Real Cartagena	2 - 0	Itagüí	Diego Carvajal	1530
+Pereira	0 - 1	Boyacá Chicó	Alfonso López
+América	2 - 1	At. Huila	Francisco Rivera Escobar
+Envigado	2 - 1	Once Caldas	General Santander	1730	Telmex / Une
+Tolima	1 - 0	Millonarios	Manuel Murillo Toro	2000
+Quindío	0 - 1	Cali	Centenario	20 de abril	1530	No
+Santa Fe	2 - 0	Junior	Metropolitano de Techo	2100	Telmex / Une
+[ocultar]Fecha 11
+Millonarios	5 - 0	Quindío16​	El Campín	9 de abril	1515	Telmex / Une
+Real Cartagena	2 - 1	Tolima	Diego Carvajal	1530	No
+Boyacá Chicó	2 - 1	Nacional	De La Independencia	1830	RCN
+Cali	2 - 1	Pereira	Deportivo Cali	2030	Telmex / Une
+Medellín	1 - 2	Envigado	Atanasio Girardot	10 de abril	1515	Une
+Itagüí	3 - 0	Junior	Ditaires	1530	No
+At. Huila	2 - 0	Santa Fe	Guillermo Plazas Alcid
+Once Caldas	0 - 1	La Equidad	Palogrande	Telmex / Une
+Cúcuta	0 - 0	América	General Santander	1700	RCN
+[ocultar]Fecha 12
+La Equidad	5 - 0	Medellín	Metropolitano de Techo	15 de abril	2100	No
+América	2 - 1	Once Caldas	Francisco Rivera Escobar	16 de abril	1530	Telmex / Une
+Santa Fe	3 - 1	Cúcuta	Metropolitano de Techo	1830	RCN
+Nacional	2 - 1	Cali	Atanasio Girardot	17 de abril	1515	Telmex / Une
+Tolima	0 - 0	Itagüí	Manuel Murillo Toro	1530	No
+Quindío	2 - 1	Real Cartagena	Centenario
+Pereira	1 - 2	Millonarios	Alfonso López	RCN
+Envigado	2 - 1	Boyacá Chicó	Polideportivo Sur	No
+Junior	3 - 0	At. Huila	Metropolitano Roberto Meléndez	1700	Telmex / Une
+[ocultar]Fecha 13
+Medellín	1 - 0	América	Atanasio Girardot	23 de abril	1600	RCN
+Cúcuta	0 - 0	Junior	General Santander	1815	Telmex / Une
+Cali	3 - 2	Envigado	Deportivo Cali	2030
+Millonarios	1 - 2	Nacional	El Campín	24 de abril	1515	RCN
+Real Cartagena	2 - 2	Pereira	Diego Carvajal	No
+Itagüí	3 - 3	At. Huila	Ditaires	1530
+Boyacá Chicó	1 - 2	La Equidad	De La Independencia
+Tolima	0 - 0	Quindío	Manuel Murillo Toro
+Once Caldas	2 - 2	Santa Fe	Palogrande	1700	Telmex / Une
+[ocultar]Fecha 14
+Pereira	2 - 2	Tolima	Alfonso López	30 de abril	1515	Telmex / Une
+América	2 - 1	Boyacá Chicó	Francisco Rivera Escobar
+Envigado	2 - 0	Millonarios	Polideportivo Sur	1830	RCN
+La Equidad	1 - 2	Cali	Metropolitano de Techo	2045	Telmex / Une
+Junior	1 - 2	Once Caldas	Metropolitano Roberto Meléndez
+Quindío	2 - 1	Itagüí	Centenario	1 de mayo	1400
+Nacional	0 - 317​	Real Cartagena	Polideportivo Sur	1500
+Santa Fe	1 - 0	Medellín	Metropolitano de Techo	1700	RCN
+At. Huila	1 - 1	Cúcuta	Guillermo Plazas Alcid	Telmex / Une
+[ocultar]Fecha 15
+Itagüí	1 - 1	Cúcuta	Ditaires	7 de mayo	1515	Telmex / Une
+Medellín	0 - 0	Junior	Los Búcaros
+Real Cartagena	1 - 1	Envigado	Diego Carvajal
+Cali	0 - 318​	América	Deportivo Cali	1830	RCN
+Tolima	5 - 0	Nacional	Manuel Murillo Toro	2030	Telmex / Une
+Boyacá Chicó	3 - 2	Santa Fe	De La Independencia	8 de mayo	1500
+Quindío	4 - 3	Pereira	Centenario
+Once Caldas	2 - 1	At. Huila	Palogrande	1700
+Millonarios	3 - 2	La Equidad	Luis Antonio Duque Peña	RCN
+[ocultar]Fecha 16
+Pereira	0 - 2	Itagüí	Alfonso López	11 de mayo	1515	Telmex / Une
+Nacional	2 - 2	Quindío	Ditaires
+Envigado	0 - 0	Tolima	Polideportivo Sur	2045
+La Equidad	0 - 0	Real Cartagena	Metropolitano de Techo
+Junior	1 - 2 	Boyacá Chicó	Metropolitano Roberto Meléndez	No
+At. Huila	2 - 0	Medellín	Guillermo Plazas Alcid
+América	1 - 1	Millonarios	Francisco Rivera Escobar	12 de mayo	1500	Telmex / Une
+Santa Fe	1 - 1	Cali	Metropolitano de Techo	2045
+Cúcuta	1 - 1	Once Caldas	General Santander
+[ocultar]Fecha 17
+Itagüí	0 - 1	Once Caldas	Ditaires	14 de mayo	1515	Telmex / Une
+Boyacá Chicó	3 - 0	At. Huila	De La Independencia
+Pereira	0 - 2	Nacional	Alfonso López	RCN
+Tolima	2 - 0	La Equidad	Manuel Murillo Toro	2000	Telmex / Une
+Medellín	2 - 3	Cúcuta	Los Búcaros	15 de mayo	1430
+Millonarios	1 - 1	Santa Fe	El Campín	RCN
+Real Cartagena	3 - 0	América	Diego Carvajal	Telmex / Une
+Quindío	3 - 3	Envigado	Centenario
+Cali	1 - 0	Junior	Deportivo Cali	1700
+[ocultar]Fecha 18
+Nacional	3 - 1	Itagüí	Sede Atlético Nacional	22 de mayo	1515	Telmex / Une
+Envigado	2 - 0	Pereira	Polideportivo Sur	No
+La Equidad	1 - 0	Quindío	Metropolitano de Techo	Telmex / Une
+América	2 - 3	Tolima	Francisco Rivera Escobar	RCN
+Santa Fe	1 - 0	Real Cartagena	Luis Carlos Galán	Telmex / Une
+At. Huila	1 - 4	Cali	Guillermo Plazas Alcid	No
+Junior	3 - 2	Millonarios	Metropolitano Roberto Meléndez	Telmex / Une
+Cúcuta	1 - 0	Boyacá Chicó	General Santander
+Once Caldas	1 - 0	Medellín	Palogrande	No
+Fecha
+Millonarios  1:0  Once Caldas	Estadio El Campín, Bogotá	[mostrar]
+La La Equidad 	1:0  Envigado F. C.	Estadio Metrop. de Techo, Bogotá	[mostrar]
+Cúcuta Deportivo 	 1:3  Deportes Tolima	Estadio General Santander
+Deportivo Cali  1:0  Atlético Nacional	Estadio 
+Fecha
+Once Caldas  1:0  Millonarios	Estadio Palogrande, Manizales	[mostrar]
+Envigado F. C.  1:1  La La Equidad	Estadio
+Deportes Tolima   1:1   Cúcuta Deportivo	Estadio Manuel Murillo Toro, Ibagué	[mostrar]
+Atlético Nacional  2:1   Deportivo Cali	Estadio General 
+Fecha
+Millonarios  2:2  La Equidad	
+Atlético Nacional  3:1  Deportes Tolima	
+Fecha
+Deportes Tolima  1:0  Atlético Nacional	
+La Equidad 	2:1  Millonarios	
+Fecha
+La Equidad 	2:1 Atlético Nacional	
+Fecha
+Atlético Nacional  2:1  La Equidad	

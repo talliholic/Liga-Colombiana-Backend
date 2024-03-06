@@ -1,0 +1,285 @@
+Round 1
+[Jul 10]
+Nacional     1-1  La Equidad
+[Jul 11]
+Cúcuta       1-1  América    
+Once Caldas  1-0  Pereira
+[Jul 12] 
+Chicó        2-3  Huila
+Millonarios  3-1  Junior    
+Tolima       1-4  Quindío  
+Cali         2-2  Envigado  
+Pasto        2-1  Medellín   
+Cartagena    1-0  Santa Fe
+
+Round 2
+[Jul 17]
+Envigado     2-2  Cartagena
+[Jul 18]
+Quindío      1-1  Millonarios
+Medellín     1-0  Cali
+[Jul 19]
+Huila        1-0  Tolima
+Junior       1-0  Cúcuta
+América      2-2  Nacional
+La Equidad   2-1  Once Caldas
+Pereira      3-0  Pasto
+Santa Fe     4-2  Chicó
+
+Round 3
+[Jul 24]
+Once Caldas  0-0  América
+[Jul 25]
+Huila        2-1  Santa Fe
+Cali         2-1  Pereira
+[Jul 26]
+Chicó        4-2  Envigado
+Cartagena    1-3  Medellín
+Pasto        1-1  La Equidad
+Nacional     2-1  Junior
+Cúcuta       2-0  Quindío
+Millonarios  0-2  Tolima
+
+Round 4
+[Aug 1]
+Millonarios  1-1  Huila
+Quindío      0-1  Nacional
+La Equidad   2-2  Cali
+[Aug 2]
+Tolima       1-1  Cúcuta
+Junior       4-2  Once Caldas
+América      1-1  Pasto
+Pereira      1-1  Cartagena
+Medellín     1-0  Chicó
+Envigado     2-3  Santa Fe
+
+Round 5
+[Aug 8]
+Santa Fe    0-3 Medellín   
+Chicó        0-0  Pereira
+Cúcuta       0-1  Millonarios
+[Aug 9]
+Huila        3-2  Envigado
+Cartagena    2-2  La Equidad
+Cali         3-2  América
+Pasto        1-0  Junior
+Once Caldas  2-0  Quindío
+Nacional     2-2  Tolima
+
+Round 6
+[Aug 15]
+Millonarios  1-1  Nacional
+América      0-1  Cartagena
+Medellín     4-2  Envigado
+[Aug 16]
+Cúcuta       1-2  Huila
+Tolima       2-1  Once Caldas
+Quindío      2-1  Pasto
+Junior       5-2  Cali
+La Equidad   1-1  Chicó
+Pereira      0-0  Santa Fe
+
+Round 7
+[Aug 22]
+Santa Fe     3-0  La Equidad
+Cartagena    2-2  Junior
+Once Caldas  0-0  Millonarios
+[Aug 23]
+Huila        0-2  Medellín
+Envigado     0-0  Pereira
+Chicó        1-1  América
+Cali         2-1  Quindío
+Pasto        3-1  Tolima
+Nacional     1-0  Cúcuta
+
+Round 8
+[Aug 29]
+Nacional     1-1  Huila
+Millonarios  1-2  Pasto
+Quindío      3-2  Cartagena
+[Aug 30]
+Cúcuta       2-0  Once Caldas
+Tolima       0-3  Cali
+Junior       5-2  Chicó
+América      1-1  Santa Fe
+La Equidad   2-2  Envigado
+Pereira      1-0  Medellín
+
+Round 9
+[Sep 11]
+Tolima       1-0  Huila
+[Sep 12]
+Santa Fe     4-2  Millonarios 
+Pereira      4-1  Once Caldas
+[Sep 13]
+Envigado     1-1  Cúcuta      
+Medellín     3-1  Nacional    
+La Equidad   1-1  Pasto
+América      3-1  Cali
+Junior       3-1  Cartagena
+Quindío      1-3  Chicó
+
+Round 10
+[Sep 19]
+Huila        2-1  Pereira     
+Santa Fe     2-2  Junior      
+Once Caldas  1-2  Nacional    
+[Sep 20]
+Medellín     1-0  La Equidad  
+Envigado     3-3  América     
+Chicó        3-1  Quindío     
+Cartagena    2-3  Tolima      
+Cali         0-1  Millonarios 
+Pasto        1-0  Cúcuta      
+
+Round 11
+[Sep 25]
+Millonarios  0-0  Cartagena   
+[Sep 26]
+Nacional     1-1  Pasto       
+América      1-2  Medellín    
+La Equidad   0-0  Pereira     
+[Sep 27]
+Once Caldas  2-1  Huila       
+Cúcuta       0-0  Cali        
+Tolima       1-1  Chicó       
+Quindío      3-1  Santa Fe    
+Junior       4-1  Envigado    
+
+Round 12
+[Oct 2]
+Chicó        2-2  Millonarios
+[Oct 3]
+Pereira      2-0  América
+Cali         1-2  Nacional
+[Oct 4]
+Huila        1-0  La Equidad
+Medellín     1-0  Junior
+Envigado     3-0  Quindío
+Santa Fe     1-1  Tolima
+Cartagena    3-2  Cúcuta
+Pasto        5-1  Once Caldas
+
+Round 13
+[Oct 16]
+Pasto        1-1  Huila
+[oct 17]
+Millonarios  1-1  Santa Fe
+Quindío      1-2  Medellín
+[Oct 18]
+Once Caldas  2-1  Cali
+Nacional     0-0  Cartagena
+Cúcuta       2-0  Chicó
+Tolima       1-0  Envigado
+Junior       1-1  Pereira
+América      1-1  La Equidad
+
+Round 14 [Oct 21]
+Huila        2-2  América
+La Equidad   1-0  Junior
+Pereira      4-0  Quindío
+Medellín     1-3  Tolima
+Envigado     3-4  Millonarios
+Santa Fe     1-1  Cúcuta
+Chicó        2-1  Nacional
+Cartagena    3-1  Once Caldas
+Cali         3-0  Pasto
+
+Round 15
+[Oct 24]
+Once Caldas  2-2  Chicó       
+Millonarios  3-0  Medellín    
+Tolima       1-1  Pereira     
+[Oct 25]
+Cali         2-2  Huila      
+Pasto       0-3 Cartagena   
+Nacional     1-2  Santa Fe    
+Cúcuta       0-3  Envigado   
+Quindío      2-2  La Equidad  
+Junior       3-0  América
+
+Round 16
+Envigado     1-2  Nacional
+[Nov 1]
+Huila        2-1  Junior     
+América      1-2  Quindío
+Chicó        1-0  Pasto
+Medellín     2-1  Cúcuta
+Pereira      1-0  Millonarios 
+La Equidad   0-2  Tolima
+Cartagena    2-1  Cali        
+Santa Fe     2-1  Once Caldas
+
+Round 17
+[Nov 7]
+Nacional     0-0  Medellín    
+Tolima       2-0  América     
+[Nov 8]
+Cúcuta       0-1  Pereira     
+Quindío      1-0  Junior      
+Cali         4-2  Chicó       
+Pasto        0-1  Santa Fe    
+Millonarios  2-0  La Equidad  
+Once Caldas  3-3  Envigado    
+Cartagena    4-3  Huila       
+ 
+Round 18
+[Nov 14]
+Medellín     2-2  Once Caldas
+La Equidad   1-1  Cúcuta
+[Nov 15]
+América      1-1  Millonarios 
+Huila        0-0  Quindío
+Junior       2-1  Tolima      
+Chicó        4-0  Cartagena   
+Pereira      0-0  Nacional    
+Envigado     3-4  Pasto       
+Santa Fe     4-1  Cali        
+
+Round 1
+[Nov 21]
+Junior       2-0  Cartagena   
+Pereira      1-2  Medellín    
+[Nov 22]
+Nacional     2-1  Tolima      
+Santa Fe     2-0  Huila       
+
+Round 2 [Nov 25]
+Medellín     0-0  Junior
+Cartagena    2-1  Pereira
+Tolima       1-2  Santa Fe
+Huila        1-0  Nacional
+
+Round 3
+[Nov 28]
+Junior       2-2  Pereira
+Tolima       1-1  Huila
+[Nov 29]
+Cartagena    2-4  Medellín
+Nacional     3-0  Santa Fe
+
+Round 4
+[Dec 5]
+Huila        1-1  Tolima
+Santa Fe     1-1  Nacional
+[Dec 6]
+Medellín     2-0  Cartagena
+Pereira      1-2  Junior
+
+Round 5 [Dec 9]
+Pereira      2-1  Cartagena
+Junior       1-2  Medellín
+Santa Fe     0-2  Tolima
+Nacional     0-1  Huila
+
+Round 6 [Dec 13]
+Cartagena    0-0  Junior
+Medellín     2-2  Pereira
+Tolima       3-4  Nacional
+Huila        4-1  Santa Fe
+
+irst Leg [Dec 16]
+Huila        0-1  Medellín
+
+Second Leg [Dec 20]
+Medellín     2-2  Huila

@@ -1,0 +1,222 @@
+Fecha 1 - 10 de julio de 2005
+10 de julio	Pasto	2 - 1	Tolima
+Quindío	0 - 0	Santa Fe
+Real Cartagena	3 - 0	Once Caldas
+América	1 - 0	Atlético Nacional
+Junior	2 - 1	Unión Magdalena
+Medellín	0 - 1	Deportivo Cali
+Pereira	1 - 0	Bucaramanga
+Millonarios	2 - 1	Envigado
+Huila	3 - 0	Boyacá Chicó
+Fecha 2 - 16 y 17 de julio de 2005
+16 de julio	Deportivo Cali	4 - 1	Junior
+17 de julio	Tolima	2 - 0	Huila
+Boyacá Chicó	0 - 2	Millonarios
+Envigado	2 - 1	Pereira
+Bucaramanga	4 - 0	Medellín
+Unión Magdalena	1 - 3	América
+Atlético Nacional	1 - 1	Real Cartagena
+Once Caldas	1 - 0	Quindío
+Santa Fe	2 - 0	Pasto
+Fecha 3 - 23 y 24 de julio de 2005
+23 de julio	Millonarios	2 - 0	Huila
+24 de julio	Tolima	2 - 1	Santa Fe
+Pasto	0 - 0	Once Caldas
+Quindío	1 - 1	Atlético Nacional
+Real Cartagena	2 - 1	Unión Magdalena
+Junior	0 - 0	Bucaramanga
+Medellín	1 - 1	Envigado
+Pereira	2 - 0	Boyacá Chicó
+América	2 - 0	Deportivo Cali
+Fecha 4 - 30 y 31 de julio de 2005
+30 de julio	Once Caldas	0 - 0	Santa Fe
+31 de julio	Millonarios	2 - 0	Tolima
+Envigado	3 - 0	Junior
+Boyacá Chicó	2 - 1	Medellín
+Bucaramanga	0 - 2	América
+Deportivo Cali	2 - 2	Real Cartagena
+Unión Magdalena	0 - 1	Quindío
+Atlético Nacional	1 - 0	Pasto
+Huila	1 - 2	Pereira
+Fecha 5 - 3 de agosto de 2005
+3 de agosto	Tolima	3 - 1	Once Caldas
+Santa Fe	1 - 2	Atlético Nacional
+Pasto	1 - 1	Unión Magdalena
+Quindío	1 - 1	Deportivo Cali
+Real Cartagena	3 - 0	Bucaramanga
+América	1 - 0	Envigado
+Junior	2 - 1	Boyacá Chicó
+Medellín	4 - 1	Huila
+Pereira	0 - 2	Millonarios
+Fecha 6 - 6 y 7 de agosto de 2005
+6 de agosto	Millonarios	1 - 0	Medellín
+7 de agosto	Pereira	2 - 0	Tolima
+Huila	1 - 2	Junior
+Boyacá Chicó	1 - 0	América
+Envigado	1 - 1	Real Cartagena
+Bucaramanga	2 - 0	Quindío
+Deportivo Cali	2 - 2	Pasto
+Unión Magdalena	1 - 1	Santa Fe
+Atlético Nacional	2 - 1	Once Caldas
+Fecha 7 - 13 y 14 de agosto de 2005
+13 de agosto	Tolima	1 - 1	Atlético Nacional
+14 de agosto	Once Caldas	4 - 0	Unión Magdalena
+Santa Fe	1 - 3	Deportivo Cali
+Pasto	1 - 0	Bucaramanga
+Quindío	2 - 0	Envigado
+Real Cartagena	2 - 1	Boyacá Chicó
+América	2 - 1	Huila
+Junior	4 - 3	Millonarios
+Medellín	2 - 0	Pereira
+Fecha 8 - 20 y 21 de agosto de 2005
+20 de agosto	Deportivo Cali	3 - 0	Once Caldas
+21 de agosto	Medellín	0 - 2	Tolima
+Pereira	2 - 1	Junior
+Huila	2 - 2	Real Cartagena
+Boyacá Chicó	0 - 2	Quindío
+Bucaramanga	3 - 0	Santa Fe
+Unión Magdalena	2 - 2	Atlético Nacional
+Millonarios	0 - 1	América
+Envigado	2 - 0	Pasto
+Fecha 9 - 28 de agosto de 2005
+28 de agosto	Boyacá Chicó	0 - 2	Pasto
+Once Caldas	3 - 3	Pereira
+Santa Fe	1 - 0	Millonarios
+Atlético Nacional	3 - 2	Medellín
+Unión Magdalena	1 - 2	Junior
+Bucaramanga	2 - 1	Real Cartagena
+Deportivo Cali	1 - 2	América
+Envigado	2 - 1	Quindío
+Huila	2 - 1	Tolima
+Fecha 10 - 10 y 11 de septiembre de 2005
+10 de septiembre	América	0 - 1	Pereira
+11 de septiembre	Tolima	1 - 1	Unión Magdalena
+Atlético Nacional	5 - 0	Deportivo Cali
+Santa Fe	0 - 0	Envigado
+Pasto	1 - 1	Boyacá Chicó
+Quindío	0 - 1	Huila
+Real Cartagena	3 - 1	Millonarios
+Junior	2 - 3	Medellín
+Once Caldas	0 - 0	Bucaramanga
+Fecha 11 - 17 y 18 de septiembre de 2005
+17 de septiembre	Bucaramanga	2 - 1	Atlético Nacional
+18 de septiembre	Junior	1 - 0	Tolima
+Medellín	3 - 1	América
+Pereira	1 - 0	Real Cartagena
+Millonarios	1 - 0	Quindío
+Huila	0 - 4	Pasto
+Boyacá Chicó	0 - 1	Santa Fe
+Envigado	1 - 2	Once Caldas
+Deportivo Cali	4 - 2	Unión Magdalena
+Fecha 12 - 24 y 25 de septiembre de 2005
+24 de septiembre	Real Cartagena	1 - 3	Medellín
+25 de septiembre	Tolima	2 - 0	Deportivo Cali
+Unión Magdalena	0 - 2	Bucaramanga
+Atlético Nacional	1 - 0	Envigado
+Once Caldas	2 - 1	Boyacá Chicó
+Santa Fe	1 - 0	Huila
+Pasto	1 - 0	Millonarios
+Quindío	3 - 2	Pereira
+América	4 - 1	Junior
+Fecha 13 - 1 y 2 de octubre de 2005
+1 de octubre	Millonarios	1 - 3	Santa Fe
+2 de octubre	Junior	0 - 0	Real Cartagena
+Bucaramanga	1 - 1	Deportivo Cali
+América	0 - 2	Tolima
+Medellín	4 - 0	Quindío
+Pereira	5 - 3	Pasto
+Huila	3 - 3	Once Caldas
+Boyacá Chicó	0 - 0	Atlético Nacional
+Envigado	2 - 1	Unión Magdalena
+Fecha 14 - 15 y 16 de octubre de 2005
+15 de octubre	Real Cartagena	2 - 1	América
+16 de octubre	Tolima	1 - 0	Bucaramanga
+Deportivo Cali	1 - 1	Envigado
+Unión Magdalena	2 - 2	Boyacá Chicó
+Atlético Nacional	1 - 2	Huila
+Once Caldas	2 - 1	Millonarios
+Santa Fe	4 - 2	Pereira
+Pasto	0 - 1	Medellín
+Quindío	3 - 1	Junior
+Fecha 15 - 19 de octubre de 2005
+19 de octubre	Real Cartagena	2 - 1	Tolima
+América	2 - 2	Quindío
+Junior	1 - 0	Pasto
+Huila	0 - 0	Unión Magdalena
+Medellín	1 - 0	Santa Fe
+Pereira	0 - 2	Once Caldas
+Millonarios	0 - 0	Atlético Nacional
+Boyacá Chicó	0 - 0	Deportivo Cali
+Envigado	2 - 2	Bucaramanga
+Fecha 16 - 22 y 23 de octubre de 2005
+22 de octubre	Santa Fe	1 - 0	Junior
+23 de octubre	Tolima	4 - 1	Envigado
+Bucaramanga	1 - 1	Boyacá Chicó
+Deportivo Cali	2 - 0	Huila
+Unión Magdalena	1 - 1	Millonarios
+Atlético Nacional	0 - 0	Pereira
+Once Caldas	3 - 0	Medellín
+Pasto	2 - 0	América
+Quindío	1 - 0	Real Cartagena
+Fecha 17 - 29 y 30 de octubre de 2005
+29 de octubre	América	2 - 2	Santa Fe
+30 de octubre	Boyacá Chicó	1 - 0	Envigado
+Huila	0 - 3	Bucaramanga
+Junior	1 - 0	Once Caldas
+Medellín	1 - 1	Atlético Nacional
+Millonarios	1 - 2	Deportivo Cali
+Pereira	3 - 0	Unión MagdalenaDescenso matemático
+Quindío	1 - 0	Tolima
+Real Cartagena	1 - 0	Pasto
+Fecha 18 - 6 de noviembre de 2005
+6 de noviembre	Tolima	1 - 1	Boyacá Chicó
+Envigado	1 - 1	Huila
+Bucaramanga	2 - 2	Millonarios
+Deportivo Cali	3 - 0	Pereira
+Unión Magdalena	0 - 2	Medellín
+Once Caldas	1 - 0	América
+Atlético Nacional	0 - 1	Junior
+Santa Fe	1 - 0	Real Cartagena
+Pasto	1 - 0	Quindío
+Fecha 1 - 12 y 13 de noviembre de 2005
+Equipo local	Resultado	Equipo visitante
+América	1 - 1	Junior
+Once Caldas	0 - 1	Deportivo Cali
+Medellín	2 - 1	Pereira
+Santa Fe	1 - 1	Cartagena
+Fecha 2 - 16 y 17 de noviembre de 2005
+Equipo local	Resultado	Equipo visitante
+Junior	1 - 0	Once Caldas
+Deportivo Cali	0 - 0	América
+Pereira	1 - 0	Santa Fe
+Cartagena	1 - 0	Medellín
+Fecha 3 - 20 de noviembre de 2005
+Equipo local	Resultado	Equipo visitante
+Once Caldas	2 - 1	América
+Deportivo Cali	2 - 0	Junior
+Medellín	0 - 2	Santa Fe
+Pereira	1 - 0	Cartagena
+Fecha 4 - 26 y 27 de noviembre de 2005
+Equipo local	Resultado	Equipo visitante
+Junior	3 - 2	Deportivo Cali
+América	3 - 2	Once Caldas
+Cartagena	3 - 2	Pereira
+Santa Fe	1 - 1	Medellín
+Fecha 5 - 4 de diciembre de 2005
+Equipo local	Resultado	Equipo visitante
+América	2 - 2	Deportivo Cali
+Once Caldas	2 - 0	Junior
+Santa Fe	2 - 1	Pereira
+Medellín	2 - 0	Cartagena
+Fecha 6 - 11 de diciembre de 2005
+Equipo local	Resultado	Equipo visitante
+Deportivo Cali	3 - 1	Once Caldas
+Junior	2 - 1	América
+Pereira	2 - 4	Medellín
+Cartagena	4 - 0	Santa Fe
+Fecha
+Real Cartagena	0 - 2	Deportivo Cali
+Fecha
+Deportivo Cali	1 - 0	Real Cartagena
+
+

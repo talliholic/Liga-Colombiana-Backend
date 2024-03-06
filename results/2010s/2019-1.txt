@@ -1,0 +1,360 @@
+Round 1
+[Jan 25]
+Patriotas          2-1 Medellín           
+[Jan 26]
+La Equidad         2-0 Huila              
+Magdalena          3-4 Jaguares           
+Nacional           0-0 Once Caldas        
+Cúcuta             3-0 Rionegro Águilas   
+Cali               2-0 Bucaramanga        
+[Jan 27]
+Alianza Petrolera  1-2 América            
+Santa Fe           1-1 Pasto              
+Envigado           0-1 Millonarios        
+[Feb 20]
+Tolima             1-2 Junior             
+
+Round 2
+[Jan 29]
+Huila              1-1 Magdalena          
+Medellín           1-1 La Equidad         
+[Jan 30]
+Pasto              1-1 Envigado           
+Santa Fe           1-2 Cúcuta             
+Jaguares           1-0 Cali               
+Rionegro Águilas   0-1 Alianza Petrolera  
+Bucaramanga        0-1 Nacional           
+Junior             3-1 Patriotas          
+[Jan 31]
+Once Caldas        1-0 Millonarios        
+América            3-1 Tolima             
+
+Round 3
+[Feb 2]
+Magdalena          1-0 La Equidad         
+Cali               1-1 Huila              
+Junior             3-2 Medellín           
+Nacional           1-0 Jaguares           
+[Feb 3]
+Pasto              1-2 Once Caldas        
+Cúcuta             1-1 Envigado           
+Patriotas          1-1 América            
+Millonarios        2-0 Bucaramanga        
+[Feb 4]
+Tolima             2-0 Rionegro Águilas   
+[Feb 5]
+Alianza Petrolera  0-0 Santa Fe           
+
+Round 4
+[Feb 8]
+Bucaramanga        1-0 Pasto              
+[Feb 9]
+Jaguares           1-2 Millonarios        
+Envigado           1-0 Alianza Petrolera  
+Santa Fe           0-1 Tolima             
+Medellín           1-1 Magdalena          
+[Feb 10]
+La Equidad         0-0 Cali               
+Huila              1-1 Nacional           
+Rionegro Águilas   2-1 Patriotas          
+América            0-1 Junior             
+[Feb 11]
+Once Caldas        1-2 Cúcuta             
+
+Round 5
+[Feb 16]
+Millonarios        3-2 Huila              
+América            3-0 Medellín           
+Alianza Petrolera  1-1 Once Caldas        
+Junior             1-1 Rionegro Águilas   
+[Feb 17]
+Pasto              4-1 Jaguares           
+Tolima             2-0 Envigado           
+Cúcuta             3-2 Bucaramanga        
+Patriotas          1-1 Santa Fe           
+Nacional           1-1 La Equidad         
+[Feb 19]
+Cali               2-1 Magdalena          
+
+Round 6
+[Feb 22]
+Huila              2-0 Pasto              
+[Feb 23]
+Envigado           0-0 Patriotas          
+Jaguares           1-1 Cúcuta             
+La Equidad         0-1 Millonarios        
+Bucaramanga        3-0 Alianza Petrolera  
+Rionegro Águilas   1-2 América            
+[Feb 24]
+Magdalena          1-0 Nacional           
+Medellín           1-1 Cali               
+Once Caldas        2-1 Tolima             
+Santa Fe           3-3 Junior             
+
+Round 7
+[Feb 26]
+Alianza Petrolera  1-1 Jaguares           
+Cúcuta             2-0 Huila              
+[Feb 27]
+Pasto              0-0 La Equidad         
+Patriotas          1-0 Once Caldas        
+Tolima             0-0 Bucaramanga        
+Junior             0-0 Envigado           
+[Feb 28]
+Rionegro Águilas   0-1 Medellín           
+América            0-0 Santa Fe           
+Millonarios        4-0 Magdalena          
+[Mar 20]
+Nacional           2-2 Cali               
+
+Round 8
+[Mar 2]
+Bucaramanga        0-1 Patriotas          
+Once Caldas        0-1 Junior             
+Jaguares           0-4 Tolima             
+La Equidad         2-1 Cúcuta             
+[Mar 3]
+Santa Fe           2-2 Rionegro Águilas   
+Magdalena          1-0 Pasto              
+Cali               1-1 Millonarios        
+Envigado           4-1 América            
+[Mar 4]
+Huila              1-2 Alianza Petrolera  
+[Apr 24]
+Nacional           1-0 Medellín           
+
+Round 9
+[Mar 8]
+Tolima             0-0 Huila              
+[Mar 9]
+Millonarios        1-1 Nacional           
+Alianza Petrolera  2-0 La Equidad         
+Junior             0-0 Bucaramanga        
+[Mar 10]
+Pasto              1-0 Cali               
+Patriotas          2-1 Jaguares           
+Medellín           1-0 Santa Fe           
+Rionegro Águilas   1-3 Envigado           
+Cúcuta             3-1 Magdalena          
+América            3-1 Once Caldas        
+
+Round 10 [derbies]
+[Mar 16]
+Medellín           2-2 Nacional           
+Cali               0-1 América            
+La Equidad         2-2 Patriotas          
+Envigado           1-1 Rionegro Águilas   
+[Mar 17]
+Once Caldas        0-1 Pasto              
+Magdalena          1-1 Junior             
+Huila              1-5 Tolima             
+Jaguares           0-0 Alianza Petrolera  
+Bucaramanga        1-0 Cúcuta             
+[Mar 28]	 
+Millonarios        1-1 Santa Fe           
+
+Round 11
+[Mar 23]
+Pasto              1-0 Millonarios        
+Cúcuta             1-3 Nacional           
+Alianza Petrolera  1-0 Cali               
+Tolima             1-0 Magdalena          
+[Mar 24]
+Medellín           4-1 Envigado           
+Junior             3-0 Huila              
+América            1-0 Jaguares           
+Santa Fe           0-2 Once Caldas        
+[Mar 25]
+Patriotas          3-1 La Equidad         
+Rionegro Águilas   1-1 Bucaramanga        
+
+Round 12
+[Mar 29]
+Huila              1-1 Patriotas          
+[Mar 30]
+La Equidad         0-0 Tolima             
+Jaguares           1-1 Junior             
+Bucaramanga        0-0 América            
+Once Caldas        2-0 Rionegro Águilas   
+Nacional           0-1 Pasto              
+[Mar 31]
+Magdalena          1-1 Alianza Petrolera  
+Cali               2-0 Cúcuta             
+Millonarios        3-2 Medellín           
+Envigado           0-0 Santa Fe           
+
+Round 13
+[Mar 7]
+Patriotas          0-3 Cali               
+[Mar 27]
+Junior             1-1 Magdalena          
+Tolima             2-1 Nacional           
+[Apr 2]
+Rionegro Águilas   0-0 Huila              
+América            1-3 La Equidad         
+[Apr 3]
+Envigado           1-2 Bucaramanga        
+Cúcuta             1-3 Pasto              
+Alianza Petrolera  0-2 Millonarios        
+[Apr 4]
+Santa Fe           0-0 Jaguares           
+Medellín           1-1 Once Caldas        
+
+Round 14
+[Feb 14]
+Cali               2-1 Tolima             
+[Apr 6]
+Magdalena          4-0 Patriotas          
+Huila              2-1 América            
+La Equidad         2-2 Junior             
+[Apr 7]
+Pasto              1-0 Medellín           
+Jaguares           2-0 Rionegro Águilas   
+Nacional           1-0 Alianza Petrolera  
+Bucaramanga        2-1 Santa Fe           
+Millonarios        1-0 Cúcuta             
+[Apr 8]
+Once Caldas        1-0 Envigado           
+
+Round 15
+[Apr 13]
+Rionegro Águilas   0-1 Magdalena          
+Once Caldas        0-1 Jaguares           
+Santa Fe           1-1 La Equidad         
+Medellín           4-0 Bucaramanga        
+[Apr 14]
+Alianza Petrolera  0-1 Cúcuta             
+Patriotas          1-3 Millonarios        
+Tolima             0-0 Pasto              
+Envigado           1-1 Huila              
+Junior             0-0 Nacional           
+América            0-1 Cali               
+
+Round 16
+[Mar 28]
+Cúcuta             2-2 Medellín           
+[Apr 16]
+Bucaramanga        1-1 Once Caldas        
+[Apr 17]
+Pasto              1-0 Alianza Petrolera  
+Jaguares           2-2 Envigado           
+Huila              0-3 Santa Fe           
+Millonarios        1-2 Tolima             
+Cali               0-0 Junior             
+[Apr 18]
+Magdalena          0-3 América            
+Nacional           4-0 Patriotas          
+[Apr 24]
+La Equidad         2-2 Rionegro Águilas   
+
+Round 17
+[Apr 20]
+Tolima             2-2 Alianza Petrolera  
+Once Caldas        1-0 La Equidad         
+Medellín           3-0 Jaguares           
+Santa Fe           1-2 Cali               
+[Apr 21]
+Patriotas          1-0 Cúcuta             
+Envigado           1-1 Magdalena          
+América            1-1 Millonarios        
+Junior             0-0 Pasto              
+Rionegro Águilas   2-1 Nacional           
+[Apr 22]
+Bucaramanga        2-4 Huila              
+
+Round 18
+[Apr 27]
+La Equidad         0-1 Envigado           
+Magdalena          3-1 Santa Fe           
+Cali               2-1 Rionegro Águilas   
+Nacional           2-0 América            
+Alianza Petrolera  1-1 Medellín           
+[Apr 28]
+Pasto              1-1 Patriotas          
+Jaguares           1-1 Bucaramanga        
+Millonarios        2-0 Junior             
+Huila              1-0 Once Caldas        
+Cúcuta             0-2 Tolima             
+
+Round 19
+[Apr 24]
+Once Caldas        4-0 Cali               
+[Apr 30]
+Envigado           4-0 Nacional           
+[May 1]
+Patriotas          1-0 Tolima             
+Rionegro Águilas   2-1 Pasto              
+Santa Fe           0-0 Millonarios        
+Jaguares           1-1 La Equidad         
+Medellín           2-1 Huila              
+[May 2]
+Bucaramanga        0-1 Magdalena          
+Junior             1-1 Alianza Petrolera  
+América            2-0 Cúcuta             
+
+Round 20
+[May 4]
+Huila              0-2 Jaguares           
+[May 5]
+Alianza Petrolera  3-0 Patriotas          
+Nacional           2-1 Santa Fe           
+Cúcuta             2-1 Junior             
+Tolima             0-1 Medellín           
+Cali               1-0 Envigado           
+Pasto              1-1 América            
+Magdalena          1-0 Once Caldas        
+La Equidad         3-1 Bucaramanga        
+Millonarios        1-1 Rionegro Águilas  
+Round 1
+[May 11]
+Magdalena          1-3 Pasto              
+[May 12]
+América            1-2 Millonarios        
+Junior             0-0 Nacional           
+[May 13]
+Tolima             1-1 Cali               
+
+Round 2
+[May 15]
+Pasto              1-0 América            
+Millonarios        1-0 Magdalena          
+[May 16]
+Cali               1-2 Junior             
+Nacional           1-2 Tolima             
+
+Round 3
+[May 18]
+Pasto              1-1 Millonarios        
+Magdalena          0-2 América            
+[May 19]
+Nacional           1-3 Cali               
+Junior             1-1 Tolima             
+
+Round 4
+[May 22]
+América            4-0 Magdalena          
+[May 25]
+Millonarios        1-0 Pasto              
+[May 26]
+Tolima             1-1 Junior             
+Cali               0-1 Nacional           
+
+Round 5
+[Jun 1]
+Magdalena          1-1 Millonarios        
+América            0-3 Pasto              
+[Jun 2]
+Tolima             2-1 Nacional           
+Junior             2-0 Cali               
+
+Round 6 [Jun 5]
+Nacional           2-3 Junior             
+Cali               1-2 Tolima             
+Pasto              3-0 Magdalena          
+Millonarios        1-2 América  
+First Leg [Jun 8]
+Junior             1-0 Pasto                
+
+Second Leg [Jun 12]
+Pasto              1-0 Junior                  
+

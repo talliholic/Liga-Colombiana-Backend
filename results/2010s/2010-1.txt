@@ -1,0 +1,190 @@
+Fecha 1 - 30 y 31 de enero de 2010
+sab	1600	Une	Pascual Guerrero	América	2 - 2	Huila
+1820	RCN	El Campín	Millonarios	2 - 1	Atlético Nacional
+2015	Une	Atanasio Girardot	Medellín	0 - 0	Santa Fe
+dom	1500	Hernán Ramírez Villegas	Pereira	2 - 2	Junior
+1530	No	Doce de Octubre	Tuluá	1 - 2	Boyacá Chicó
+Jaime Morón	Cartagena	4 - 3	Once Caldas
+Ditaires29​	Envigado	1 - 0	Cúcuta
+Metropolitano de Techo	La Equidad	1 - 0	Quindío
+1800	RCN	Manuel Murillo Toro	Tolima	3 - 1	Deportivo Cali
+Fecha 2 - 5 al 7 de febrero de 2010
+vie	2000	Une	Palogrande	Once Caldas	3 - 1	Envigado
+sab	1820	RCN	Pascual Guerrero	Deportivo Cali	4 - 1	Millonarios
+2030	Une	General Santander	Cúcuta	0 - 2	Pereira
+dom	1530	Atanasio Girardot	Atlético Nacional	1 - 2	Medellín
+No	Centenario	Quindío	0 - 3	Tolima
+Metropolitano Roberto Meléndez	Junior	2 - 0	La Equidad
+De La Independencia	Boyacá Chicó	0 - 2	Cartagena
+Guillermo Plazas Alcid	Huila	1 - 1	Tuluá
+1800	RCN	El Campín	Santa Fe	2 - 0	América
+Fecha 3 - 12 al 14 de febrero de 2010
+vie	2000	Une	El Campín	Millonarios	0 - 0	Quindío
+sab	1820	RCN	Atanasio Girardot	Atlético Nacional	2 - 0	Deportivo Cali
+2030	Une	Manuel Murillo Toro	Tolima	2 - 2	Junior
+No	Atanasio Girardot	Envigado	1 - 0	Boyacá Chicó
+dom	1530	Une	Hernán Ramírez Villegas	Pereira	1 - 1	Once Caldas
+No	Doce de Octubre	Tuluá	2 - 0	Santa Fe
+Jaime Morón León	Cartagena	2 - 1	Huila
+Metropolitano de Techo	La Equidad	0 - 0	Cúcuta
+1800	RCN	Pascual Guerrero	América	1 - 0	Medellín
+Fecha 4 - 17 y 18 de febrero de 2010
+mie	1530	Une	De La Independencia	Boyacá Chicó	1 - 1	Pereira
+2030	Une	Metropolitano Roberto Meléndez	Junior	2 - 0	Millonarios
+No	Centenario	Quindío	0 - 2	Atlético Nacional
+General Santander	Cúcuta	1 - 0	Tolima
+Palogrande	Once Caldas	2 - 3	La Equidad
+Guillermo Plazas Alcid	Huila	2 - 2	Envigado
+El Campín	Santa Fe	2 - 2	Cartagena
+Pascual Guerrero	América	0 - 1	Tuluá
+jue	2030	Une	Atanasio Girardot	Medellín	2 - 1	Deportivo Cali
+Fecha 5 - 20 y 21 de febrero de 2010
+sab	1820	RCN	Atanasio Girardot	Atlético Nacional	1 - 0	Junior
+2030	Une	El Campín	Millonarios	2 - 0	Cúcuta
+dom	1530	Jaime Morón León	Cartagena	1 - 0	América
+No	Doce de Octubre	Tuluá	1 - 2	Medellín
+Hernán Ramírez Villegas	Pereira	1 - 3	Huila
+Metropolitano de Techo	La Equidad	2 - 1	Boyacá Chicó
+Estadio Deportivo Cali30​	Deportivo Cali	2 - 0	Quindío
+1745	RCN	Polideportivo Sur	Envigado	1 - 1	Santa Fe
+24/331​	2030	Une32​	Manuel Murillo Toro	Tolima	1 - 1	Once Caldas
+Fecha 6 - 27 y 28 de febrero de 2010
+sab	1600	Une	Doce de Octubre	Tuluá	1 - 2	Cartagena
+1820	RCN	General Santander	Cúcuta	1 - 1	Atlético Nacional
+2030	Une	Atanasio Girardot	Medellín	1 - 0	Quindío
+dom	1530	Metropolitano Roberto Meléndez	Junior	3 - 0	Deportivo Cali
+No	De La Independencia	Boyacá Chicó	1 - 1	Tolima
+Guillermo Plazas Alcid	Huila	4 - 1	La Equidad
+Pascual Guerrero	América	2 - 2	Envigado
+1600	Une	El Campín	Santa Fe	0 - 2	Pereira
+1745	RCN	Palogrande	Once Caldas	3 - 1	Millonarios
+Fecha 7 - 3 de marzo de 2010
+mie	1530	No	Metropolitano de Techo	La Equidad	1 - 2	Santa Fe
+Ditaires33​	Atlético Nacional	1 - 2	Once Caldas
+2030	Une	Jaime Morón León	Cartagena	1 - 1	Medellín
+No	Polideportivo Sur	Envigado	2 - 0	Tuluá
+Hernán Ramírez Villegas	Pereira	1 - 0	América
+Manuel Murillo Toro	Tolima	1 - 0	Huila
+Pascual Guerrero	Deportivo Cali	1 - 1	Cúcuta
+Centenario	Quindío	1 - 2	Junior
+24/334​	2030	No32​	El Campín	Millonarios	2 - 3	Boyacá Chicó
+Fecha 8 - 6 y 7 de marzo de 2010
+sab	1600	Une	El Campín	Santa Fe	3 - 2	Tolima
+1820	RCN	Polideportivo Sur	Medellín	1 - 1	Junior
+2030	Une	Palogrande	Once Caldas	0 - 3	Deportivo Cali
+dom	1530	De La Independencia	Boyacá Chicó	3 - 2	Atlético Nacional
+Une	Doce de Octubre	Tuluá	1 - 1	Pereira
+Jaime Morón León	Cartagena	1 - 1	Envigado
+No	General Santander	Cúcuta	1 - 0	Quindío
+Pascual Guerrero	América	3 - 1	La Equidad
+1745	RCN	Guillermo Plazas Alcid	Huila	1 - 1	Millonarios
+Fecha 9 - 20 y 21 de marzo de 2010
+sab	1600	Une	Guillermo Plazas Alcid	Huila	1 - 3	Tolima
+1820	RCN	El Campín	Santa Fe	2 - 1	Millonarios
+2030	Une	Metropolitano Roberto Meléndez	Junior	0 - 3	Cartagena
+dom	1530	Palogrande	Once Caldas	5 - 1	Pereira
+No	Centenario	Quindío	1 - 2	Tuluá
+General Santander	Cúcuta	2 - 2	Envigado
+De La Independencia	Boyacá Chicó	2 - 0	La Equidad
+1745	RCN	Pascual Guerrero	Deportivo Cali	1 - 1	América
+15/435​	2030	No	Atanasio Girardot	Medellín	2 - 1	Atlético Nacional
+Fecha 10 - 27 y 28 de marzo de 2010
+sab	1820	RCN	Hernán Ramírez Villegas	Pereira	3 - 0	Cartagena
+2030	Une	Estadio Pascual Guerrero	Deportivo Cali	3 - 0	Boyacá Chicó
+dom	1500	Une	Polideportivo Sur	Envigado	1 - 7	Medellín
+1530	Une	Manuel Murillo Toro	Tolima	2 - 1	América
+No	Alfonso López Pumarejo36​	La Equidad	3 - 0	Tuluá
+Centenario	Quindío	0 - 2	Once Caldas
+Metropolitano Roberto Meléndez	Junior	2 - 0	Cúcuta
+1745	RCN	El Campín	Millonarios	2 - 1	Santa Fe
+31/3	2030	Une	Polideportivo Sur	Atlético Nacional	2 - 1	Huila
+Fecha 11 - 3 y 4 de abril de 2010
+sab	1600	Une	Pascual Guerrero	América	3 - 2	Millonarios
+1820	RCN	El Campín	Santa Fe	3 - 0	Atlético Nacional
+2030	Une	Atanasio Girardot	Medellín	3 - 0	Cúcuta
+dom	1530	Jaime Morón León	Cartagena	1 - 4	La Equidad
+Une	Polideportivo Sur	Envigado	2 - 1	Pereira
+No	De La Independencia	Boyacá Chicó	1 - 0	Quindío
+Guillermo Plazas Alcid	Huila	1 - 0	Deportivo Cali
+Doce de Octubre	Tuluá	1 - 5	Tolima
+1745	RCN	Palogrande	Once Caldas	1 - 0	Junior
+Fecha 12 - 7 y 8 de abril de 2010
+31/337​	2030	No	Hernán Ramírez Villegas	Pereira	1 - 2	Medellín
+mie	1530	Alfonso López Pumarejo36​	La Equidad	2 - 0	Envigado
+2030	Une	Atanasio Girardot	Atlético Nacional	2 - 0	América
+No	Manuel Murillo Toro	Tolima	3 - 1	Cartagena
+El Campín	Millonarios	0 - 2	Tuluá
+Centenario	Quindío	2 - 1	Huila
+Metropolitano Roberto Meléndez	Junior	3 - 1	Boyacá Chicó
+General Santander	Cúcuta	1 - 0	Once Caldas
+jue	Une	Estadio Pascual Guerrero	Deportivo Cali	0 - 1	Santa Fe
+Fecha 13 - 10 y 11 de abril de 2010
+sab	1600	Une	Guillermo Plazas Alcid	Huila	0 - 0	Junior
+1820	RCN	Jaime Morón León	Cartagena	1 - 0	Millonarios
+2030	Une	Doce de Octubre	Tuluá	0 - 2	Atlético Nacional
+dom	1530	Atanasio Girardot	Medellín	0 - 0	Once Caldas
+No	De La Independencia	Boyacá Chicó	2 - 0	Cúcuta
+El Campín	Santa Fe	2 - 1	Quindío
+Polideportivo Sur	Envigado	2 - 3	Tolima
+Hernán Ramírez Villegas	Pereira	2 - 2	La Equidad
+1745	RCN	Pascual Guerrero	América	1 - 2	Deportivo Cali
+Fecha 14 - 17 y 18 de abril de 2010
+sab	1600	Une	Palogrande	Once Caldas	3 - 3	Boyacá Chicó
+1820	RCN	Metropolitano Roberto Meléndez	Junior	2 - 0	Santa Fe
+2030	Une	Manuel Murillo Toro	Tolima	1 - 0	Pereira
+dom	1530	RCN	Alfonso López Pumarejo36​	La Equidad	2 - 1	Medellín
+No	El Campín	Millonarios	2 - 1	Envigado
+Estadio Pascual Guerrero	Deportivo Cali	5 - 3	Tuluá
+Centenario	Quindío	2 - 0	América
+General Santander	Cúcuta	2 - 3	Huila
+1745	Une	Atanasio Girardot	Atlético Nacional	4 - 2	Cartagena
+Fecha 15 - 23 al 25 de abril de 2010
+vie	2000	Une	El Campín	Santa Fe	2 - 0	Cúcuta
+sab	1820	RCN	Polideportivo Sur	Envigado	2 - 1	Atlético Nacional
+2030	Une	Jaime Morón León	Cartagena	0 - 1	Deportivo Cali
+dom	1530	Atanasio Girardot	Medellín	0 - 0	Boyacá Chicó
+No	Guillermo Plazas Alcid	Huila	3 - 2	Once Caldas
+Doce de Octubre	Tuluá	0 - 1	Quindío
+Hernán Ramírez Villegas	Pereira	1 - 1	Millonarios
+Alfonso López Pumarejo36​	La Equidad	4 - 3	Tolima
+1745	RCN	Pascual Guerrero	América	2 - 2	Junior
+Fecha 16 - 1 y 2 de mayo de 2010
+sab	1600	Une	Centenario	Quindío	0 - 0	Cartagena
+1820	RCN	Manuel Murillo Toro	Tolima	1 - 1	Medellín
+2030	Une	Atanasio Girardot	Atlético Nacional	3 - 2	Pereira
+dom	1530	Metropolitano Roberto Meléndez	Junior	3 - 2	Tuluá
+No	El Campín	Millonarios	1 - 1	La Equidad
+Estadio Deportivo Cali38​	Deportivo Cali	1 - 0	Envigado
+General Santander	Cúcuta	3 - 0	América
+De La Independencia	Boyacá Chicó	1 - 1	Huila
+1745	RCN	Palogrande	Once Caldas	1 - 2	Santa Fe
+Fecha 17 - 8 y 9 de mayo de 2010
+sab	1600	No	Polideportivo Sur	Envigado	2 - 0	Quindío
+Une	Hernán Ramírez Villegas	Pereira	1 - 3	Deportivo Cali
+1820	RCN	El Campín39​	La Equidad	2 - 1	Atlético Nacional
+2030	No	Doce de Octubre	Tuluá	0 - 0	Cúcuta
+Une	Atanasio Girardot	Medellín	3 - 2	Huila
+dom	1530	Jaime Morón León	Cartagena	1 - 0	Junior
+No	Hernando Azcárate Martínez40​	América	2 - 1	Once Caldas
+Manuel Murillo Toro	Tolima	2 - 1	Millonarios
+1745	RCN	El Campín	Santa Fe	2 - 3	Boyacá Chicó
+Fecha 18 - 15 y 16 de mayo de 2010
+sab	1600	Une	Centenario	Quindío	1 - 0	Pereira
+1820	Atanasio Girardot	Atlético Nacional	1 - 0	Tolima
+RCN	El Campín	Millonarios	3 - 1	Medellín
+dom	1530	Estadio Deportivo Cali38​	Deportivo Cali	0 - 0	La Equidad
+Une	Metropolitano Roberto Meléndez	Junior	2 - 0	Envigado
+Guillermo Plazas Alcid	Huila	3 - 0	Santa Fe
+No	General Santander	Cúcuta	2 - 0	Cartagena
+Palogrande	Once Caldas	2 - 1	Tuluá
+De La Independencia	Boyacá Chicó	1 - 0	América
+Partidos de ida - 19 y 20 de mayo de 2010
+mie	1930	Une	El Campín	La Equidad	 2-2	 Tolima
+jue	Metropolitano Roberto Meléndez	Junior	 3-1	 Medellín
+Partidos de vuelta - 22 y 23 de mayo de 2010
+sab	1820	Une / RCN	Manuel Murillo Toro	Tolima	 1-1	 La Equidad
+dom	1745	Atanasio Girardot	Medellín	 1-0	 Junior
+Fecha	Hora	Ciudad	Local	Resultado	Visitante
+26 de mayo	1900	Bogotá	La Equidad	 1 - 0	 Junior
+Fecha
+2 de junio	1900	Barranquilla	Junior	 3 - 1	 La Equidad

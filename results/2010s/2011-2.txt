@@ -1,0 +1,200 @@
+Fecha 1
+Independiente Medellín	0 : 3	Itagüí	Atanasio Girardot	26 de agosto	20:00	Telmex / Une
+Cúcuta Deportivo	0 : 1	Deportivo Cali	General Santander	27 de agosto	15:30
+Santa Fe	3 : 0	Deportes Tolima	Nemesio Camacho El Campín	18:20	RCN
+Envigado F. C.	1 : 3	Atlético Nacional	Atanasio Girardot	20:00	Telmex / Une
+Once Caldas	3 : 1	Boyacá Chicó	Palogrande	28 de agosto	15:30
+Junior	0 : 3	Real Cartagena	Metropolitano Roberto Meléndez
+Atlético Huila	2 : 1	Millonarios	Guillermo Plazas Alcid	17:30	RCN
+La Equidad	0 : 2	Deportivo Pereira	Metropolitano de Techo	Telmex / Une
+América	1 : 0	Deportes Quindío	Olímpico Pascual Guerrero	8 de octubre	18:20	RCN
+[ocultar]Fecha 2
+Itagüí	1 : 1	Envigado F. C.	Ditaires	31 de agosto	15:30	Telmex / Une
+Deportivo Cali	1 : 1	Once Caldas	Olímpico Pascual Guerrero
+Deportivo Pereira	1 : 1	América	Hernán Ramírez Villegas	20:00
+Deportes Quindío	3 : 1	Santa Fe	Centenario	No
+Deportes Tolima	0 : 0	Junior	Manuel Murillo Toro
+Atlético Nacional	1 : 2	La Equidad	Atanasio Girardot	20:30	Telmex / Une
+Real Cartagena	2 : 1	Atlético Huila	Olímpico Jaime Morón León	1 de septiembre	20:00
+Millonarios	1 : 1	Cúcuta Deportivo	Nemesio Camacho El Campín
+Boyacá Chicó	0 : 0	Independiente Medellín	La Independencia	9 de octubre	17:30	RCN
+[ocultar]Fecha 3
+Itagüí	1 : 1	Boyacá Chicó	Ditaires	3 de septiembre	15:30	Telmex / Une
+La Equidad	0 : 2	Envigado F. C.	Metropolitano de Techo
+América	2 : 4	Atlético Nacional	Olímpico Pascual Guerrero	18:20	RCN
+Junior	4 : 0	Deportes Quindío	Metropolitano Roberto Meléndez	20:00	Telmex / Une
+Santa Fe	0 : 0	Deportivo Pereira	Nemesio Camacho El Campín
+Once Caldas	0 : 1	Millonarios	Palogrande	4 de septiembre	15:30
+Cúcuta Deportivo	3 : 2	Real Cartagena	General Santander
+Independiente Medellín	3 : 0	Deportivo Cali	Atanasio Girardot	17:30	RCN
+Atlético Huila	1 : 0	Deportes Tolima	Guillermo Plazas Alcid	Telmex / Une
+[ocultar]Fecha 4
+Envigado F. C.	1 : 1	América	Polideportivo Sur	9 de septiembre	20:00	Telmex / Une
+La Equidad	0 : 2	Itagüí	Metropolitano de Techo	10 de septiembre	15:30
+Deportes Quindío	2 : 1	Atlético Huila	Centenario
+Atlético Nacional	1 : 140​	Santa Fe	Atanasio Girardot	18:20	RCN
+Real Cartagena	1 : 1	Once Caldas	Olímpico Jaime Morón León	20:00	Telmex / Une
+Deportivo Cali	2 : 2	Boyacá Chicó	Olímpico Pascual Guerrero
+Deportivo Pereira	1 : 2	Junior	Hernán Ramírez Villegas	11 de septiembre	15:30
+Deportes Tolima	2 : 1	Cúcuta Deportivo	Manuel Murillo Toro
+Millonarios	1 : 1	Independiente Medellín	Nemesio Camacho El Campín	17:30	RCN
+[ocultar]Fecha 5
+Santa Fe	2 : 1	Envigado F. C.	Metropolitano de Techo	13 de septiembre	20:00	Telmex / Une
+Itagüí	2 : 1	Deportivo Cali	Ditaires	14 de septiembre	15:30
+Independiente Medellín	4 : 1	Real Cartagena	Atanasio Girardot	20:00
+Once Caldas	2 : 2	Deportes Tolima	Palogrande	No
+Cúcuta Deportivo	1 : 1	Deportes Quindío	General Santander
+Atlético Huila	1 : 1	Deportivo Pereira	Guillermo Plazas Alcid
+Junior	1 : 1	Atlético Nacional	Metropolitano Roberto Meléndez	Telmex / Une
+Boyacá Chicó	1 : 0	Millonarios	La Independencia	15 de septiembre
+América	1 : 1	La Equidad	Olímpico Pascual Guerrero	26 de octubre
+[ocultar]Fecha 6
+Envigado F. C.	2 : 0	Junior	Polideportivo Sur	17 de septiembre	15:30	Telmex / Une
+Deportivo Pereira	2 : 1	Cúcuta Deportivo	Hernán Ramírez Villegas
+Deportes Tolima	2 : 0	Independiente Medellín	Manuel Murillo Toro	18:20	RCN
+América	2 : 1	Itagüí	Olímpico Pascual Guerrero	20:00	Telmex / Une
+Atlético Nacional	1 : 2	Atlético Huila	Atanasio Girardot
+La Equidad	2 : 1	Santa Fe	Metropolitano de Techo	18 de septiembre	13:00
+Real Cartagena	0 : 1	Boyacá Chicó	Olímpico Jaime Morón León	15:30
+Deportes Quindío	2 : 0	Once Caldas	Centenario	17:30
+Millonarios	3 : 1	Deportivo Cali	Nemesio Camacho El Campín	RCN
+[ocultar]Fecha 7
+Itagüí	2 : 1	Millonarios	Ditaires	21 de septiembre	15:30	Telmex / Une
+Deportivo Cali	1 : 0	Real Cartagena	Olímpico Pascual Guerrero	20:00	No
+Boyacá Chicó	1 : 0	Deportes Tolima	La Independencia
+Independiente Medellín	1 : 2	Deportes Quindío	Atanasio Girardot	Telmex / Une
+Once Caldas	1 : 1	Deportivo Pereira	Palogrande	No
+Cúcuta Deportivo	0 : 0	Atlético Nacional	General Santander	Telmex / Une
+Atlético Huila	1 : 0	Envigado F. C.	Guillermo Plazas Alcid	No
+Junior	3 : 0	La Equidad	Metropolitano Roberto Meléndez	22 de septiembre	20:30	Telmex / Une
+Santa Fe	0 : 1	América	Nemesio Camacho El Campín	12 de octubre	20:00	Telmex / Une
+[ocultar]Fecha 8
+Envigado F. C.	1 : 141​	Cúcuta Deportivo	Polideportivo Sur	24 de septiembre	15:30	Telmex / Une
+Deportes Quindío	2 : 2	Boyacá Chicó	Centenario
+Real Cartagena	3 : 2	Millonarios	Olímpico Jaime Morón León	18:20	RCN
+Atlético Nacional	2 : 1	Once Caldas	Atanasio Girardot	20:00	Telmex / Une
+Santa Fe	3 : 2	Itagüí	Nemesio Camacho El Campín	25 de septiembre	15:30
+Deportivo Pereira	2 : 2	Independiente Medellín	Hernán Ramírez Villegas
+Deportes Tolima	3 : 1	Deportivo Cali	Manuel Murillo Toro	No
+América	0 : 1	Junior	Olímpico Pascual Guerrero	17:30	RCN
+La Equidad	1 : 1	Atlético Huila	Metropolitano de Techo	Telmex / Une
+[ocultar]Fecha 9
+Envigado F. C.	2 : 0	Itagüí	Polideportivo Sur	28 de septiembre	15:30	Telmex / Une
+Deportivo Cali	2 : 0	América	Olímpico Pascual Guerrero	20:00	No
+Millonarios	2 : 0	Santa Fe	El Campín	Telmex / Une
+Real Cartagena	1 : 1	Junior	Olímpico Jaime Morón León	No
+Deportes Tolima	1 : 0	Atlético Huila	Manuel Murillo Toro
+Deportivo Pereira	2 : 3	Once Caldas	Hernán Ramírez Villegas
+Atlético Nacional	1 : 1	Independiente Medellín	Atanasio Girardot	Telmex / Une
+Boyacá Chicó	1 : 042​	La Equidad	La Independencia	29 de septiembre
+Deportes Quindío	3 : 3	Cúcuta Deportivo	Centenario
+[ocultar]Fecha 10
+Atlético Huila	1 : 2	América	Guillermo Plazas Alcid	1 de octubre	15:30	Telmex / Une
+Itagüí	3 : 1	Real Cartagena	Ditaires
+Independiente Medellín	0 : 2	Atlético Nacional	Atanasio Girardot	18:20	RCN
+Once Caldas	3 : 2	Envigado F. C.	Palogrande	20:00	Telmex / Une
+Millonarios	2 : 1	Deportes Tolima	Nemesio Camacho El Campín
+Cúcuta Deportivo	0 : 0	La Equidad	General Santander	2 de octubre	15:30
+Deportivo Cali	1 : 0	Deportes Quindío	Olímpico Pascual Guerrero
+Boyacá Chicó	1 : 2	Deportivo Pereira	La Independencia	17:30
+Junior	3 : 3	Santa Fe	Metropolitano Roberto Meléndez	RCN
+[ocultar]Fecha 11
+La Equidad	1 : 1	Once Caldas	Metropolitano de Techo	14 de octubre	20:00	Telmex / Une
+Envigado F. C.	1 : 0	Independiente Medellín	Polideportivo Sur	15 de octubre	15:30
+Deportes Tolima	1 : 0	Real Cartagena	Manuel Murillo Toro
+Deportes Quindío	3 : 0	Millonarios	Centenario	18:20	RCN
+Santa Fe	1 : 0	Atlético Huila	Nemesio Camacho El Campín	20:00	Telmex / Une
+América	3 : 0	Cúcuta Deportivo	Olímpico Pascual Guerrero
+Deportivo Pereira	0 : 0	Deportivo Cali	Hernán Ramírez Villegas	16 de octubre	15:30
+Junior	0 : 0	Itagüí	Metropolitano Roberto Meléndez
+Atlético Nacional	1 : 1	Boyacá Chicó	Atanasio Girardot	17:30	RCN
+[ocultar]Fecha 12
+Cúcuta Deportivo	0 : 1	Santa Fe	General Santander	21 de octubre	20:00	Telmex / Une
+Millonarios	0 : 0	Deportivo Pereira	Nemesio Camacho El Campín	22 de octubre	15:30
+Real Cartagena	3 : 0	Deportes Quindío	Olímpico Jaime Morón León
+Deportivo Cali	2 : 1	Atlético Nacional	Olímpico Pascual Guerrero	18:20	RCN
+Boyacá Chicó	0 : 0	Envigado F. C.	La Independencia	20:00	Telmex / Une
+Atlético Huila	2 : 3	Junior	Guillermo Plazas Alcid
+Itagüí	2 : 2	Deportes Tolima	Ditaires	23 de octubre	15:30
+Independiente Medellín	0 : 1	La Equidad	Atanasio Girardot
+Once Caldas	4 : 0	América	Palogrande	12 de noviembre	18:00	RCN
+[ocultar]Fecha 13
+Atlético Huila	1 : 1	Itagüí	Guillermo Plazas Alcid	1 de noviembre	20:00	Telmex / Une
+Deportes Quindío	2 : 1	Deportes Tolima	Centenario
+Envigado F. C.	1 : 0	Deportivo Cali	Polideportivo Sur	2 de noviembre	15:30
+La Equidad	0 : 1	Boyacá Chicó	Metropolitano de Techo	18:00
+América	1 : 2	Independiente Medellín	Olímpico Pascual Guerrero	20:00
+Junior	2 : 2	Cúcuta Deportivo	Metropolitano Roberto Meléndez	No
+Atlético Nacional	0 : 2	Millonarios	Atanasio Girardot	Telmex / Une
+Deportivo Pereira	0 : 0	Real Cartagena	Hernán Ramírez Villegas	No
+Santa Fe	1 : 2	Once Caldas	Nemesio Camacho El Campín	3 de noviembre	Telmex / Une
+[ocultar]Fecha 14
+Millonarios	1 : 0	Envigado F. C.	Nemesio Camacho El Campín	5 de noviembre	15:30	Telmex / Une
+Itagüí	1 : 0	Deportes Quindío	Ditaires
+Real Cartagena	0 : 0	Atlético Nacional	Olímpico Jaime Morón León	18:20	RCN
+Deportes Tolima	1 : 0	Deportivo PereiraDescenso matemático	Manuel Murillo Toro	20:00	Telmex / Une
+Deportivo Cali	0 : 0	La Equidad	Olímpico Pascual Guerrero
+Boyacá Chicó	1 : 1	América	La Independencia	6 de noviembre	15:30
+Independiente Medellín	1 : 0	Santa Fe	Atanasio Girardot
+Once Caldas	1 : 2	Junior	Palogrande	17:30	RCN
+Cúcuta Deportivo	1 : 0	Atlético Huila	General Santander	No
+[ocultar]Fecha 15
+Envigado F. C.	2 : 0	Real Cartagena	Polideportivo Sur	16 de noviembre	18:00	Telmex / Une
+Atlético Huila	1 : 0	Once Caldas	Guillermo Plazas Alcid
+Cúcuta Deportivo	1 : 1	Itagüí	General Santander	20:00	No
+Junior	4 : 3	Independiente Medellín	Metropolitano Roberto Meléndez	Telmex / Une
+América	0 : 1	Deportivo Cali	Olímpico Pascual Guerrero
+Deportivo Pereira	3 : 0	Deportes Quindío	Hernán Ramírez Villegas	No
+La Equidad	1 : 2	Millonarios	Metropolitano de Techo
+Atlético Nacional	3 : 2	Deportes Tolima	Atanasio Girardot	17 de noviembre	Telmex / Une
+Santa Fe	2 : 0	Boyacá Chicó	Nemesio Camacho El Campín
+[ocultar]Fecha 16
+Itagüí	1 : 0	Deportivo Pereira	Ditaires	19 de noviembre	15:30	Telmex / Une
+Once Caldas	5 : 0	Cúcuta Deportivo	Palogrande
+Millonarios	2 : 0	América	Nemesio Camacho El Campín	18:20	RCN
+Real Cartagena	2 : 1	La Equidad	Olímpico Jaime Morón León	20:00	Telmex / Une
+Independiente Medellín	3 : 2	Atlético Huila	Atanasio Girardot
+Deportivo Cali	0 : 0	Santa Fe	Olímpico Pascual Guerrero	20 de noviembre	15:30
+Deportes Tolima	1 : 2	Envigado F. C.	Manuel Murillo Toro
+Boyacá Chicó	3 : 0	Junior	La Independencia	17:30
+Deportes Quindío	2 - 143​	Atlético Nacional	Centenario	RCN
+[ocultar]Fecha 17
+Atlético Nacional	2 : 2	Deportivo Pereira	Atanasio Girardot	23 de noviembre	20:00	Telmex / Une
+Envigado F. C.	1 : 0	Deportes Quindío	Polideportivo Sur	No
+La Equidad	1 : 1	Deportes Tolima	Metropolitano de Techo
+América	2 : 1	Real Cartagena	Olímpico Pascual Guerrero
+Santa Fe	1 : 0	Millonarios	Nemesio Camacho El Campín	Telmex / Une
+Junior	2 : 0	Deportivo Cali	Metropolitano Roberto Meléndez	No
+Atlético Huila	1 : 1	Boyacá Chicó	Guillermo Plazas Alcid
+Cúcuta Deportivo	1 : 2	Independiente Medellín	General Santander
+Once Caldas	2 : 0	Itagüí	Palogrande
+[ocultar]Fecha 18
+Itagüí	1 : 0	Atlético Nacional	Ditaires	27 de noviembre	15:30	Telmex / Une
+Deportivo Pereira	4 : 0	Envigado F. C.	Hernán Ramírez Villegas
+Deportes Quindío	1 : 1	La Equidad	Centenario
+Deportes Tolima	1 : 4	América	Manuel Murillo Toro
+Real Cartagena	1 : 2	Santa Fe	Olímpico Jaime Morón León
+Deportivo Cali	1 : 2	Atlético Huila	Deportivo Cali
+Millonarios	0 : 0	Junior	Nemesio Camacho El Campín
+Boyacá Chicó	1 : 1	Cúcuta Deportivo	La Independencia
+Independiente Medellín	3 : 4	Once Caldas	Atanasio Girardot	RCN
+Fecha
+Boyacá Chicó  0:0  Junior	
+Envigado F. C.  2:1  Millonarios	
+Santa Fe 	3:2  Itagüí Ditaires
+América  0:0  Once Caldas	
+Fecha
+Junior  2:2 Boyacá Chicó	
+Millonarios 	2:1  Envigado F. C.	
+Itagüí  0:1  Santa Fe	
+Once Caldas 	2:0  América	
+Fecha
+Millonarios 	3:0  Junior	
+Once Caldas 	1:1  Santa Fe	
+Fecha
+Junior  3:0  Millonarios	
+Santa Fe 	1:2  Once Caldas	
+Fecha
+Junior  3:2  Once Caldas	
+Fecha
+Once Caldas 	2:1 Junior

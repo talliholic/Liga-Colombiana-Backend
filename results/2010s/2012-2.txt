@@ -1,0 +1,220 @@
+Fecha 1
+Tolima	2 : 1	Patriotas	Manuel Murillo Toro	27 de julio	20:30	FPC
+Cúcuta	2 : 1	Envigado	Santiago de las Atalayas	28 de julio	15:30
+Real Cartagena	1 : 2	Once Caldas	Jaime Morón León	17:45
+Cali	3 : 1	Nacional	Pascual Guerrero	18:00	RCN
+Medellín	1 : 0	Pasto	Atanasio Girardot	20:00	FPC
+Boyacá Chicó	2 : 0	Huila	La Independencia	29 de julio	13:00
+Itagüí	3 : 0	La Equidad	Ciudad de Itagüí	15:00
+Quindío	0 : 0	Junior	Centenario	17:00	RCN
+Millonarios	2 : 0	Santa Fe	El Campín	17:00	FPC
+[ocultar]Fecha 2
+Pasto	3 : 0	Quindío	Libertad	3 de agosto	20:45	FPC
+Patriotas	1 : 1	Cúcuta	La Independencia	4 de agosto	15:00
+Junior	1 : 0	Real Cartagena	Metropolitano	15:15
+Once Caldas	1 : 0	Cali	Palogrande	RCN
+Envigado	1 : 0	Medellín	Polideportivo Sur	20:15	FPC
+Huila	0 : 4	Millonarios	Guillermo Plazas Alcid	5 de agosto	15:15
+Santa Fe	2 : 1	Tolima	El Campín	17:00	RCN
+La Equidad	1 : 1	Boyacá Chicó	Metropolitano de Techo	17:30	FPC
+Nacional	1 : 1	Itagüí	Atanasio Girardot	19:45
+[ocultar]Fecha 3
+Quindío	1 : 0	Envigado	Centenario	10 de agosto	21:30	FPC
+Itagüí	1 : 0	Once Caldas	Ciudad de Itagüí	11 de agosto	15:15
+Tolima	1 : 1	Huila	Manuel Murillo Toro	18:00
+Millonarios	2 : 0	La Equidad	El Campín	RCN
+Junior	2 : 0	Pasto	Metropolitano	20:15	FPC
+Boyacá Chicó	1 : 1	Nacional	La Independencia	12 de agosto	14:30
+Cali	2 : 0	Real Cartagena	Pascual Guerrero	17:00	RCN
+Cúcuta	4 : 0	Santa Fe	Santiago de las Atalayas	14 de agosto	15:15	FPC
+Medellín	2 : 0	Patriotas	Atanasio Girardot	15 de agosto	17:30
+[ocultar]Fecha 4
+Huila	0 : 0	Cúcuta	Guillermo Plazas Alcid	17 de agosto	21:45	FPC
+Patriotas	2 : 2	Quindío	La Independencia	18 de agosto	15:15
+Santa Fe	1 : 1	Medellín	El Campín	17:30	RCN
+Envigado	1 : 2	Pasto	Polideportivo Sur	FPC
+Nacional	0 : 0	Millonarios	Atanasio Girardot	19:45
+Real Cartagena	3 : 1	Itagüí	Jaime Morón León	19 de agosto	15:00
+Cali	1 : 1	Junior	Pascual Guerrero	17:00	RCN
+La Equidad	1 : 0	Tolima	Metropolitano de Techo	FPC
+Once Caldas	5 : 2	Boyacá Chicó	Palogrande	19:00
+[ocultar]Fecha 5
+Medellín	0 : 0	Huila	Atanasio Girardot	24 de agosto	21:45	FPC
+Itagüí	2 : 0	Cali	Ciudad de Itagüí	25 de agosto	15:15
+Deportes Tolima	1 : 3	Nacional	Manuel Murillo Toro	17:30	RCN
+Pasto	1 : 1	Patriotas	Departamental Libertad	17:15	FPC
+Quindío	1 : 0	Santa Fe	Centenario	19:15
+Junior	2 : 0	Envigado	Metropolitano	19:45
+Cúcuta	1 : 3	La Equidad	Santiago de las Atalayas	26 de agosto	15:15	FPC
+Millonarios	2 : 1	Once Caldas	El Campín	17:00	RCN
+Boyacá Chicó	3 : 0	Real Cartagena	La Independencia	17:30	FPC
+[ocultar]Fecha 6
+Huila	0 : 1	Quindío	Guillermo Plazas Alcid	28 de agosto	21:00	FPC
+Santa Fe	2 : 0	Pasto	El Campín
+Itagüí	1 : 1	Junior	Ciudad de Itagüí	29 de agosto	15:30
+La Equidad	1 : 3	Medellín	Metropolitano de Techo	17:45
+Cali	2 : 3	Boyacá Chicó	Pascual Guerrero	20:00
+Real Cartagena	0 : 2	Millonarios	Jaime Morón León
+Nacional	1 : 1	Cúcuta	Atanasio Girardot
+Once Caldas	0 : 1	Tolima	Palogrande	8 de septiembre	17:00
+Patriotas	1 : 2	Envigado	La Independencia	9 de septiembre	15:30
+[ocultar]Fecha 7
+Pasto	3 : 1	Huila	Libertad	31 de agosto	21:45	FPC
+Cúcuta	4 : 1	Once Caldas	Santiago de las Atalayas	1 de septiembre	15:15
+Envigado	1 : 1	Santa Fe	Polideportivo Sur	17:30	RCN
+Medellín	0 : 3	Nacional	Atanasio Girardot	19:45	FPC
+Junior	4 : 3	Patriotas	Metropolitano	2 de septiembre	15:00
+Millonarios	0 : 0	Cali	El Campín	17:00	RCN
+Tolima	2 : 1	Real Cartagena	Manuel Murillo Toro	FPC
+Quindío	1 : 1	La Equidad	Centenario	19:00
+Boyacá Chicó	1 : 1	Itagüí	La Independencia	19 de septiembre	20:45
+[ocultar]Fecha 8
+Cali	1 : 3	Tolima	Pascual Guerrero	14 de septiembre	20:45	FPC
+Itagüí	1 : 0	Millonarios	Ciudad de Itagüí	15 de septiembre	15:15
+Once Caldas	0 : 1	Medellín	Palogrande	17:30	RCN
+La Equidad	2 : 0	Pasto	Metropolitano de Techo	FPC
+Huila	1 : 0	Envigado	Guillermo Plazas Alcid	19:45
+Nacional	1 : 1	Quindío	Atanasio Girardot	16 de septiembre	15:00
+Real Cartagena	0 : 1	Cúcuta	Jaime Morón León	17:00
+Santa Fe	2 : 1	Patriotas	El Campín	RCN
+Boyacá Chicó	1 : 1	Junior	La Independencia	19:00	FPC
+[ocultar]Fecha 9
+Once Caldas	1 : 3	Quindío	Palogrande	21 de septiembre	19:45	FPC
+Patriotas	1 : 0	Boyacá Chicó	La independencia	22 de septiembre	16:00
+Santa Fe	1 : 2	Millonarios	El Campín	18:15	RCN
+Huila	0 : 0	Tolima	Guillermo Plazas Alcid	FPC
+Pasto	3 : 0	Cali	Departamental La Libertad	20:45
+Nacional	2 : 2	Medellín	Atanasio Girardot	23 de septiembre	15:00
+Real Cartagena	1 : 3	Junior	Jaime Morón León	17:00	RCN
+La Equidad	3 : 1	Cúcuta	Metropolitano de Techo	FPC
+Envigado	0 : 0	Itagüí	Polideportivo Sur	19:00
+[ocultar]Fecha 10
+Cúcuta	1 : 2	Cali	Santiago de las Atalayas	26 de septiembre	15:15	FPC
+Envigado	1 : 1	La Equidad	Polideportivo Sur	17:45
+Medellín	5 : 0	Real Cartagena	Atanasio Girardot	20:15
+Patriotas	1 : 0	Huila	La Independencia
+Junior	1 : 1	Santa Fe	Metropolitano	FPC
+Quindío	0 : 1	Once Caldas	Centenario
+Tolima	1 : 2	Itagüí	Manuel Murillo Toro
+Millonarios	0 : 1	Boyacá Chicó	El Campín
+Pasto	0 : 2	Nacional	Libertad	27 de septiembre	21:30	FPC
+[ocultar]Fecha 11
+Real Cartagena	2 : 1	Quindío	Jaime Morón León	29 de septiembre	16:30	FPC
+Boyacá Chicó	1 : 1	Tolima	La Independencia	18:30
+Millonarios	2 : 0	Junior	El Campín	RCN
+Cali	2 : 0	Medellín	Pascual Guerrero	20:30	FPC
+La Equidad	2 : 1	Patriotas	Metropolitano de techo	30 de septiembre	13:00
+Itagüí	0 : 0	Cúcuta	Ciudad de Itagüí	15:00
+Nacional	1 : 0	Envigado	Atanasio Girardot	17:00
+Huila	2 : 0	Santa Fe	Guillermo Plazas Alcid	RCN
+Once Caldas	2 : 1	Pasto	Palogrande	19:00	FPC
+[ocultar]Fecha 12
+Cúcuta	2 : 0	Boyacá Chicó	Santiago de las Atalayas	3 de octubre	15:00	
+Envigado	2 : 1	Once Caldas	Polideportivo Sur	17:00
+Quindío	2 : 1	Cali	Centenario	19:00
+Medellín	0 : 1	Itagüí	Atanasio Girardot
+Junior	4 : 0	Huila	Metropolitano
+Pasto	0 : 0	Real Cartagena	Libertad
+Patriotas	0 : 3	Nacional	La Independencia
+Santa Fe	1 : 2	La Equidad	El Campín	4 de octubre	20:45
+Tolima	0 : 0	Millonarios	Manuel Murillo Toro	25 de octubre
+[ocultar]Fecha 13
+Tolima	2 : 2	Junior	Manuel Murillo Toro	6 de octubre	16:15	FPC
+Millonarios	1 : 0	Cúcuta	El Campín	18:30	RCN
+Real Cartagena	2 : 3	Envigado	Jaime Morón León	FPC
+Cali	0 : 1	Pasto	Pascual Guerrero	20:45
+Itagüí	4 : 0	Quindío	Ciudad de Itagüí	7 de octubre	13:00
+Nacional	2 : 2	Santa Fe	Atanasio Girardot	15:00
+Boyacá Chicó	1 : 0	Medellín	La Independencia	17:00	RCN
+Once Caldas	1 : 1	Patriotas	Palogrande	FPC
+La Equidad	5 : 1	Huila	Metropolitano de Techo	19:00
+[ocultar]Fecha 14
+Cúcuta	0 : 5	Tolima	Santiago de las Atalayas	13 de octubre	15:15	FPC
+Huila	0 : 0	Nacional	Guillermo Plazas Alcid	17:30	RCN
+Pasto	1 : 1	Itagüí	Libertad	FPC
+Quindío	4 : 1	Boyacá Chicó	Centenario	19:45
+Medellín	1 : 1	Millonarios	Atanacio Girardot	14 de octubre	15:00
+Santa Fe	2 : 0	Once Caldas	El Campín	17:00	RCN
+Patriotas	1 : 1	Real Cartagena	La Independencia	FPC
+Envigado	0 : 0	Cali	Polideportivo Sur	19:00
+Junior	0 : 0	La Equidad	Metropolitano	17 de octubre	21:00
+[ocultar]Fecha 15
+Real Cartagena	2 : 1	Santa Fe	Jaime Morón León	19 de octubre	20:45	FPC
+Itagüí	1 : 1	Envigado	Ciudad de Itagüí	20 de octubre	15:15
+Millonarios	2 : 1	Quindío	El Campín	17:30	RCN
+Cali	3 : 0	Patriotas	Pascual Guerrero	FPC
+Boyacá Chicó	1 : 1	Pasto	La Independencia	19:45
+Cúcuta	1 : 1	Junior	General Santander	21 de octubre	15:00
+Tolima	2 : 1	Medellín	Manuel Murillo Toro	17:00	RCN
+Nacional	0 : 0	La Equidad	Atanasio Girardot	FPC
+Once Caldas	3 : 1	Huila	Palogrande	19:00
+[ocultar]Fecha 16
+La Equidad	1 : 0	Once Caldas	Metropolitano de Techo	26 de octubre	19:00	FPC
+Envigado	0 : 0	Boyacá Chicó	Polideportivo Sur	27 de octubre	16:00
+Santa Fe	1 : 0	Cali	El Campín	18:00	RCN
+Patriotas	1 : 0	Itagüí	La Independencia	FPC
+Junior	1 : 0	Nacional	Metropolitano Roberto Melendez	20:00
+Medellín	1 : 1	Cúcuta	Atanasio Girardot	28 de octubre	15:00
+Huila	1 : 1	Real Cartagena	Guillermo Plazas Alcid	17:00
+Pasto	3 : 1	Millonarios	Libertad	RCN
+Quindío	1 : 2	Tolima	Centenario	19:00	FPC
+[ocultar]Fecha 17
+Itagüí	0 : 0	Santa Fe	Ciudad de Itagüí	3 de noviembre	15:15	FPC
+Millonarios	2 : 0	Envigado	El Campín	17:30
+Once Caldas	0 : 2	Nacional	Palogrande	RCN
+Tolima	2 : 1	Pasto	Manuel Murillo Toro	19:45	FPC
+Cúcuta	1 : 0	Quindío	General Santander	4 de noviembre	15:00
+Boyacá Chicó	0 : 1	Patriotas	La Independencia
+Real Cartagena	0 : 2	La Equidad	Jaime Morón León
+Medellín	2 : 1	Junior	Atanasio Girardot	17:00
+Cali	3 : 2	Huila	Pascual Guerrero
+[ocultar]Fecha 18
+Patriotas	0 : 2	Millonarios	La Independencia	10 de noviembre	16:15	FPC
+Junior	2 : 0	Once Caldas	Metropolitano	18:30
+La Equidad	1 : 1	Cali	Metropolitano de Techo	RCN
+Huila	2 : 3	Itagüí	Guillermo Plazas Alcid	FPC
+Envigado	2 : 0	Tolima	Polideportivo Sur
+Nacional	2 : 1	Real Cartagena	Atanasio Girardot	20:45
+Santa Fe	1 : 0	Boyacá Chicó	Metropolitano de Techo	11 de noviembre	15:00
+Pasto	2 : 1	Cúcuta	Libertad
+Quindío	1 : 3	Medellín	Centenario	RCN
+Fecha
+Junior	2 : 1	Millonarios	Metropolitano	18 de noviembre	15:30	FPC
+Tolima	3 : 0	Pasto	Manuel Murillo Toro	17:00	RCN
+La Equidad	0 : 2	Nacional	El Campín	17 de noviembre	17:00	RCN
+Medellín	0 : 0	Itagüí	Atanasio Girardot	19:15	FPC
+Fecha
+Pasto	1 : 0	Junior	Libertad	21 de noviembre	17:45	FPC
+Millonarios	3 : 0	Tolima	El Campín	28 de noviembre	19:30
+Itagüí	0 : 1	La Equidad	Ciudad de Itagüí	21 de noviembre	15:00
+Nacional	0 : 1	Medellín	Atanasio Girardot	20:00
+Fecha
+Pasto	3 : 1	Millonarios	Libertad	25 de noviembre	17:00	RCN
+Tolima	0 : 1	Junior	Manuel Murillo Toro	17:00	FPC
+Itagüí	2 : 0	Nacional	Ciudad de Itagüí	24 de noviembre	15:30	RCN
+La Equidad	3 : 0	Medellín	El Campín	17:30	FPC
+Fecha
+Junior	1 : 1	Tolima	Metropolitano	2 de diciembre	14:45	RCN
+Millonarios	1 : 0	Pasto	El Campín	17:00
+Medellín	1 : 0	La Equidad	Atanasio Girardot	2 de diciembre	19:00
+Nacional	1 : 0	Itagüí	Atanasio Girardot	3 de diciembre	18:30
+Fecha
+Tolima	1 : 2	Millonarios	Manuel Murillo Toro	5 de diciembre	FPC
+Junior	1 : 3	Pasto	Metropolitano	20:30
+La Equidad	1 : 2	Itagüí	El Campín	6 de diciembre	18:15
+Medellín	1 : 1	Nacional	Atanasio Girardot	20:30
+Fecha
+Nacional	2 : 0	La Equidad	Atanasio Girardot	9 de diciembre	14:45
+Itagüí	0 : 1	Medellín	Ciudad de Itagüí	RCN
+Millonarios	0 : 0	Junior	El Campín	9 de diciembre	17:00	RCN
+Pasto	1 : 1	Tolima	Libertad	FPC
+Fecha
+Independiente Medellín  0:0 Millonarios
+Fecha
+Millonarios	 1:1  Independiente Medellín
+
+
+
+
+
+

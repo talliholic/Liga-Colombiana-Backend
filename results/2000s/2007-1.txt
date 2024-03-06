@@ -1,0 +1,214 @@
+Fecha 1 - 4 de febrero de 2007
+Santa Fe	0 - 0	Junior
+Deportivo Cali	3 - 2	Quindío
+Pereira	1 - 1	Bucaramanga
+Boyacá Chicó	2 - 1	América
+Cúcuta	4 - 1	Once Caldas
+La Equidad	3 - 4	Atlético Nacional
+Medellín	2 - 1	Pasto
+Cartagena	0 - 0	Millonarios
+Huila	2 - 3	Tolima
+Fecha 2 - 11 de febrero de 2007
+Atlético Nacional	2 - 0	Santa Fe
+Once Caldas	1 - 1	Pereira
+Quindío	0 - 1	Cúcuta
+Pasto	0 - 0	Deportivo Cali
+Tolima	0 - 0	Cartagena
+Junior	2 - 1	Huila
+América	1 - 1	La Equidad
+Bucaramanga	2 - 1	Boyacá Chicó
+Millonarios	5 - 1	Medellín
+Fecha 3 - 18 de febrero de 2007
+Huila	2 - 2	Atlético Nacional
+Boyacá Chicó	2 - 0	Pereira
+La Equidad	1 - 1	Bucaramanga
+Cartagena	1 - 1	Junior
+Medellín	2 - 1	Tolima
+Cúcuta	2 - 0	Pasto
+Once Caldas	1 - 0	Quindío
+Deportivo Cali	2 - 0	Millonarios
+Santa Fe	2 - 0	América
+Fecha 4 - 25 de febrero de 2007
+Tolima	1 - 1	Deportivo Cali
+Pereira	0 - 1	Quindío
+Pasto	3 - 2	Once Caldas
+Junior	1 - 2	Medellín
+América	2 - 1	Huila
+Bucaramanga	1 - 1	Santa Fe
+Boyacá Chicó	0 - 0	La Equidad
+Atlético Nacional	1 - 0	Cartagena
+Millonarios	1 - 1	Cúcuta
+Fecha 5 - 4 de marzo de 2007
+Deportivo Cali	4 - 1	Junior
+La Equidad	3 - 3	Pereira
+Santa Fe	1 - 0	Boyacá Chicó
+Huila	2 - 1	Bucaramanga
+Cartagena	2 - 2	América
+Medellín	2 - 2	Atlético Nacional
+Cúcuta	2 - 1	Tolima
+Once Caldas	2 - 0	Millonarios
+Quindío	2 - 0	Pasto
+Fecha 6 - 11 de marzo de 2007
+Atlético Nacional	0 - 2	Deportivo Cali
+Bucaramanga	1 - 0	Cartagena
+Junior	2 - 1	Cúcuta
+América	1 - 1	Medellín
+Pereira	0 - 1	Pasto
+Tolima	3 - 1	Once Caldas
+La Equidad	1 - 2	Santa Fe
+Millonarios	1 - 1	Quindío
+Boyacá Chicó	1 - 0	Huila
+Fecha 7 - 18 de marzo de 2007
+Cúcuta	1 - 1	Atlético Nacional
+Santa Fe	2 - 0	Pereira
+Huila	2 - 0	La Equidad
+Cartagena	1 - 0	Boyacá Chicó
+Medellín	1 - 2	Bucaramanga
+Deportivo Cali	2 - 2	América
+Once Caldas	1 - 1	Junior
+Quindío	1 - 2	Tolima
+Pasto	0 - 1	Millonarios
+Fecha 8 - 25 de marzo de 2007
+Tolima	1 - 2	Pasto
+Bucaramanga	2 - 0	Deportivo Cali
+Pereira	1 - 1	Millonarios
+Junior	3 - 2	Quindío
+Atlético Nacional	2 - 0	Once Caldas
+América	1 - 2	Cúcuta
+Boyacá Chicó	2 - 1	Medellín
+La Equidad	2 - 0	Cartagena
+Santa Fe	1 - 0	Huila
+Fecha 9 - 1 de abril de 2007
+Atlético Nacional	2 - 2	Medellín
+Pasto	2 - 0	La Equidad
+Junior	2 - 2	Cartagena
+Bucaramanga	1 - 2	Cúcuta
+América	0 - 2	Deportivo Cali
+Tolima	1 - 2	Huila
+Quindío	1 - 2	Boyacá Chicó
+Pereira	0 - 0	Once Caldas
+Millonarios	4 - 2	Santa Fe
+Fecha 10 - 8 de abril de 2007
+Millonarios	2 - 0	Tolima
+Huila	1 - 0	Pereira
+Cartagena	2 - 1	Santa Fe
+Medellín	2 - 1	La Equidad
+Deportivo Cali	2 - 2	Boyacá Chicó
+Cúcuta	2 - 0	Bucaramanga
+Once Caldas	2 - 3	América
+Quindío	2 - 1	Atlético Nacional
+Pasto	1 - 1	Junior
+Fecha 11 - 11 de abril de 2007
+Junior	1 - 1	Millonarios
+Atlético Nacional	1 - 1	Pasto
+América	0 - 0	Quindío
+Bucaramanga	0 - 0	Once Caldas
+Boyacá Chicó	1 - 0	Cúcuta
+La Equidad	0 - 1	Deportivo Cali
+Santa Fe	2 - 4	Medellín
+Huila	2 - 0	Cartagena
+Pereira	2 - 0	Tolima
+Fecha 12 - 15 de abril de 2007
+Millonarios	0 - 1	Atlético Nacional
+Cartagena	1 - 1	Pereira
+Medellín	1 - 3	Huila
+Cúcuta	3 - 1	La Equidad
+Once Caldas	1 - 0	Boyacá Chicó
+Quindío	1 - 1	Bucaramanga
+Pasto	2 - 2	América
+Tolima	2 - 1	Junior
+Deportivo Cali	1 - 1	Santa Fe
+Fecha 13 - 22 de abril de 2007
+Santa Fe	3 - 3	Cúcuta
+Atlético Nacional	1 - 0	Tolima
+Pereira	0 - 1	Junior
+Cartagena	2 - 2	Medellín
+Huila	1 - 0	Deportivo Cali
+Boyacá Chicó	3 - 0	Quindío
+Bucaramanga	1 - 0	Pasto
+La Equidad	0 - 0	Once Caldas
+América	2 - 2	Millonarios
+Fecha 14 - 25 de abril de 2007
+Pasto	1 - 1	Boyacá Chicó
+Millonarios	2 - 1	Bucaramanga
+Cúcuta	2 - 0	Huila
+Medellín	1 - 3	Pereira
+Quindío	0 - 0	La Equidad
+Deportivo Cali	4 - 1	Cartagena
+Junior	2 - 1	Atlético Nacional
+Once Caldas	0 - 1	Santa Fe
+Tolima	6 - 0	América
+Fecha 15 - 29 de abril de 2007
+Boyacá Chicó	1 - 0	Millonarios
+Pereira	0 - 2	Atlético Nacional
+América	3 - 1	Junior
+Bucaramanga	3 - 1	Tolima
+La Equidad	2 - 3	Pasto
+Santa Fe	0 - 0	Quindío
+Huila	3 - 2	Once Caldas
+Cartagena	1 - 0	Cúcuta
+Medellín	3 - 3	Deportivo Cali
+Fecha 16 - 2 de mayo de 2007
+Deportivo Cali	2 - 1	Pereira
+Cúcuta	0 - 1	Medellín
+Once Caldas	2 - 1	Cartagena
+Quindío	1 - 0	Huila
+Pasto	0 - 1	Santa Fe
+Millonarios	1 - 0	La Equidad
+Tolima	2 - 0	Boyacá Chicó
+Junior	0 - 0	Bucaramanga
+Atlético Nacional	4 - 0	América
+Fecha 17 - 6 de mayo de 2007
+Bucaramanga	3 - 2	Atlético Nacional
+Pereira	1 - 0	América
+Boyacá Chicó	2 - 0	Junior
+La Equidad	4 - 1	Tolima
+Santa Fe	1 - 2	Millonarios
+Huila	2 - 1	Pasto
+Cartagena	0 - 0	Quindío
+Medellín	1 - 0	Once Caldas
+Deportivo Cali	2 - 1	Cúcuta
+Fecha 18 - 12 de mayo de 2007
+Cúcuta	1 - 0	Pereira
+Once Caldas	2 - 2	Deportivo Cali
+Quindío	0 - 4	Medellín
+Pasto	1 - 0	Cartagena
+Millonarios	3 - 0	Huila
+Junior	2 - 2	La Equidad
+Tolima	1 - 2	Santa Fe
+Atlético Nacional	3 - 0	Boyacá Chicó
+América	4 - 2	Bucaramanga
+Fecha 1 - 16 de mayo de 2007
+Atlético Nacional	3 - 0	Boyacá Chicó
+Deportivo Cali	2 - 0	Santa Fe
+Cúcuta	1 - 1	Medellín
+Millonarios	0 - 1	Huila
+Fecha 2 - 20 de mayo de 2007
+Boyacá Chicó	1 - 2	Deportivo Cali
+Santa Fe	1 - 0	Atlético Nacional
+Huila	1 - 1	Cúcuta
+Medellín	2 - 3	Millonarios
+Fecha 3 - 23 de mayo de 2007
+Atlético Nacional	3 - 0	Deportivo Cali
+Boyacá Chicó	5 - 1	Santa Fe
+Huila	1 - 0	Medellín
+Millonarios	2 - 0	Cúcuta
+Fecha 4 - 27 de mayo de 2007
+Santa Fe	0 - 1	Boyacá Chicó
+Deportivo Cali	0 - 0	Atlético Nacional
+Medellín	3 - 3	Huila
+Cúcuta	3 - 1	Millonarios
+Fecha 5 - 3 de junio de 2007
+Deportivo Cali	3 - 1	Boyacá Chicó
+Atlético Nacional	3 - 1	Santa Fe
+Cúcuta	4 - 0	Huila
+Millonarios	1 - 0	Medellín
+Fecha 6 - 10 de junio de 2007
+Boyacá Chicó	2 - 3	Atlético Nacional
+Santa Fe	1 - 1	Deportivo Cali
+Huila	2 - 0	Millonarios
+Medellín	0 - 0	Cúcuta
+Fecha	Ciudad	
+Atlético Huila 	0 - 1	Atlético Nacional
+Fecha
+Atlético Nacional 2 - 1	 Atlético Huila
